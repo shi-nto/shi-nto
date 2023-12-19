@@ -40,7 +40,7 @@
 
 
 
-[Demon Slayer](https://github.com/AymenBoussetta/Demon-aymanox-pixel-art)
+[Demon Slayer](https://github.com/AymenBoussetta/Demon-aymanox-pixel-art)<br>
 [Kagoya]() In Progress
 
 
@@ -107,7 +107,7 @@ Ongoing exploration of emerging technologies, staying at the forefront of Unreal
 
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
 
