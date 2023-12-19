@@ -40,9 +40,9 @@
 
 
 
-[Repository Name](https://github.com/AymenBoussetta/Demon-aymanox-pixel-art)
+[Demon Slayer](https://github.com/AymenBoussetta/Demon-aymanox-pixel-art)
+[Kagoya]() In Progress
 
-### Kagoya (In Progress)
 
 ### Epic Quest VR (Current)
 Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.
