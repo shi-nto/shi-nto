@@ -1,3 +1,53 @@
+🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Engine Development
+💼 Professional Background:
+
+💻 Languages: C++, Blueprints
+🛠️ Tools: Unreal Engine, Visual Studio, Perforce
+🌐 Technologies: Virtual Reality (VR), Augmented Reality (AR)
+🎮 Projects:
+
+Epic Quest VR (Current):
+Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.
+
+Galactic Odyssey (Past):
+Contributed to the development of a space exploration game, implementing complex gameplay mechanics and optimizing performance for a seamless player experience.
+
+🏆 Achievements:
+
+Demon Slayer Game (Full c++ made)
+Kagoya (in progress)
+🔧 Skills:
+
+🖥️ Technical: Advanced proficiency in Unreal Engine, strong C++ programming skills, expertise in VR and AR development.
+🤝 Soft Skills: Effective communication, collaborative teamwork, and a passion for pushing creative boundaries.
+📚 Educational Background:
+
+🏫 Leaning in EST Fes in Morroco
+🤝 Contributions and Collaborations:
+Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.
+
+🌱 Learning and Growth:
+Ongoing exploration of emerging technologies, staying at the forefront of Unreal Engine advancements.
+
+🚧 Motto:
+"Transforming Ideas into Interactive Realities, One Line of Code at a Time."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
