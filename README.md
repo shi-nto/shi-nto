@@ -10,56 +10,57 @@
 
 </h1>
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--🖼️RICK-->
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 <h1 align=center>🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Game Development</h1>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## 💼 Professional Background
 
 - 💻 **Languages:** C++, Blueprints
 - 🛠️ **Tools:** Unreal Engine, Visual Studio, Perforce , Vroid Studio , Android Studio ........
 - 🌐 **Technologies:** Virtual Reality (VR), Augmented Reality (AR)
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## 🎮 Projects
 
   - Demon Slayer Game (Full c++ made)
   - Kagoya (in progress)
-    
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ### Epic Quest VR (Current)
 Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ### Galactic Odyssey (Past)
 Contributed to the development of a space exploration game, implementing complex gameplay mechanics and optimizing performance for a seamless player experience.
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## 🏆 Achievements
 
 - Demon Slayer Game (Full c++ made)
 - Kagoya (in progress)
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## 🔧 Skills
 
 - 🖥️ **Technical:** Advanced proficiency in Unreal Engine, strong C++ programming skills, expertise in VR and AR development.
 - 🤝 **Soft Skills:** Effective communication, collaborative teamwork, and a passion for pushing creative boundaries.
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## 📚 Educational Background
 
 - 🏫 Leaning in EST Fes in Morocco
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## 🤝 Contributions and Collaborations
 
 Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"
 ## 🌱 Learning and Growth
 
 Ongoing exploration of emerging technologies, staying at the forefront of Unreal Engine advancements.
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"
 ## 🚧 Motto
 
 "Transforming Ideas into Interactive Realities, One Line of Code at a Time."
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"
 <br>
 
 
