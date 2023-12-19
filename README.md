@@ -1,46 +1,44 @@
-🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Engine Development
-💼 Professional Background:
+# 🚀 Unreal Engine Development Portfolio
 
-💻 Languages: C++, Blueprints
-🛠️ Tools: Unreal Engine, Visual Studio, Perforce
-🌐 Technologies: Virtual Reality (VR), Augmented Reality (AR)
-🎮 Projects:
+## 💼 Professional Background
 
-Epic Quest VR (Current):
+- 💻 **Languages:** C++, Blueprints
+- 🛠️ **Tools:** Unreal Engine, Visual Studio, Perforce
+- 🌐 **Technologies:** Virtual Reality (VR), Augmented Reality (AR)
+
+## 🎮 Projects
+
+### Epic Quest VR (Current)
 Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.
 
-Galactic Odyssey (Past):
+### Galactic Odyssey (Past)
 Contributed to the development of a space exploration game, implementing complex gameplay mechanics and optimizing performance for a seamless player experience.
 
-🏆 Achievements:
+## 🏆 Achievements
 
-Demon Slayer Game (Full c++ made)
-Kagoya (in progress)
-🔧 Skills:
+- Demon Slayer Game (Full c++ made)
+- Kagoya (in progress)
 
-🖥️ Technical: Advanced proficiency in Unreal Engine, strong C++ programming skills, expertise in VR and AR development.
-🤝 Soft Skills: Effective communication, collaborative teamwork, and a passion for pushing creative boundaries.
-📚 Educational Background:
+## 🔧 Skills
 
-🏫 Leaning in EST Fes in Morroco
-🤝 Contributions and Collaborations:
+- 🖥️ **Technical:** Advanced proficiency in Unreal Engine, strong C++ programming skills, expertise in VR and AR development.
+- 🤝 **Soft Skills:** Effective communication, collaborative teamwork, and a passion for pushing creative boundaries.
+
+## 📚 Educational Background
+
+- 🏫 Leaning in EST Fes in Morocco
+
+## 🤝 Contributions and Collaborations
+
 Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.
 
-🌱 Learning and Growth:
+## 🌱 Learning and Growth
+
 Ongoing exploration of emerging technologies, staying at the forefront of Unreal Engine advancements.
 
-🚧 Motto:
+## 🚧 Motto
+
 "Transforming Ideas into Interactive Realities, One Line of Code at a Time."
-
-
-
-
-
-
-
-
-
-
 
 
 
