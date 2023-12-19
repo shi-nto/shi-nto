@@ -121,23 +121,10 @@
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 
 
-<p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
-</p>
-</details>
 
-<!--📏LINE-->
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
