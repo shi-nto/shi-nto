@@ -351,7 +351,7 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 
   
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" with="100%" height="1000px"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" with="100%" />
 </div>
 
 
