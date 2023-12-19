@@ -1,13 +1,16 @@
-<h1 align=center>🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Engine Development</h1>
+<h1 align=center>🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Game Development</h1>
 
 ## 💼 Professional Background
 
 - 💻 **Languages:** C++, Blueprints
-- 🛠️ **Tools:** Unreal Engine, Visual Studio, Perforce
+- 🛠️ **Tools:** Unreal Engine, Visual Studio, Perforce , Vroid Studio , Android Studio ........
 - 🌐 **Technologies:** Virtual Reality (VR), Augmented Reality (AR)
 
 ## 🎮 Projects
 
+  - Demon Slayer Game (Full c++ made)
+  - Kagoya (in progress)
+    
 ### Epic Quest VR (Current)
 Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.
 
