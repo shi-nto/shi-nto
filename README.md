@@ -16,7 +16,8 @@
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
 
-# 🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Game Development
+<div> <h1>🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Game Development</h1> </div>
+
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
