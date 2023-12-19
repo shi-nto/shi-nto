@@ -15,9 +15,9 @@
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
-
-<div align=center> <h1>🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Game Development</h1> </div>
-
+<div align=center>
+  <h1>🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Game Development</h1>
+</div>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -39,11 +39,8 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-
-
 [Demon Slayer](https://github.com/AymenBoussetta/Demon-aymanox-pixel-art)<br>
 [Kagoya]() In Progress
-
 
 ### 🌐 Epic Quest VR (Current)
 Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.
@@ -52,7 +49,7 @@ Leading the development of an immersive VR game, leveraging Unreal Engine's cutt
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-### 🌐Galactic Odyssey (Past)
+### 🌐 Galactic Odyssey (Past)
 Contributed to the development of a space exploration game, implementing complex gameplay mechanics and optimizing performance for a seamless player experience.
 
 ## 🏆 Achievements
@@ -105,6 +102,8 @@ Ongoing exploration of emerging technologies, staying at the forefront of Unreal
 
 "Transforming Ideas into Interactive Realities, One Line of Code at a Time."
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
 
 
 
