@@ -152,7 +152,7 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="260px"/>
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -166,7 +166,7 @@
   <tr>
   </tr>
   <tr>
-    <td><h5 align="center"><details>
+    <td><h5 align="center"><details open>
   <summary><h2><img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="35px" height="35px">&nbsp;Chess Tournament&nbsp;<img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="40px" height="40px"></h2></summary><p>
 
 <h4 align="left">
