@@ -277,14 +277,13 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
-#
 
 
 
 
 
 <h3 align="center">
-📛Aymanox📛 
+<div><h1>📛AYMANOX📛</h1> </div>
 </br> 
 <img src="https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
