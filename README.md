@@ -27,11 +27,13 @@
   - Demon Slayer Game (Full c++ made)
   - Kagoya (in progress)
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-### Epic Quest VR (Current)
-Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Epic Quest VR (Current)
+ - Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. 
+ - Managing the entire development life cycle from concept to release.
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ### Galactic Odyssey (Past)
-Contributed to the development of a space exploration game, implementing complex gameplay mechanics and optimizing performance for a seamless player experience.
+ - Contributed to the development of a space exploration game, implementing complex gameplay mechanics and optimizing performance for a seamless player 
+    experience.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## 🏆 Achievements
 
@@ -49,12 +51,12 @@ Contributed to the development of a space exploration game, implementing complex
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## 🤝 Contributions and Collaborations
 
-Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.
+ - Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"
 ## 🌱 Learning and Growth
 
-Ongoing exploration of emerging technologies, staying at the forefront of Unreal Engine advancements.
+- Ongoing exploration of emerging technologies, staying at the forefront of Unreal Engine advancements.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"
 ## 🚧 Motto
 
