@@ -67,7 +67,7 @@ Ongoing exploration of emerging technologies, staying at the forefront of Unreal
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🖼️ILOVEOPENSOURCE-->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
