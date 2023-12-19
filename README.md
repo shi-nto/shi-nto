@@ -209,45 +209,11 @@ To move a piece to a postion
 
 Having fun? Ask a friend to play next move to get the next turn !
 
-<details>
-  <summary>How it works</summary>
-When you click on a link it will submit a new issue with the desired move, create the issue and a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
-</details>
 
 
-<details>
-  <summary>Last 5 moves in this game</summary>
-<!-- BEGIN LAST MOVES -->
 
-| Move | Author |
-| :--: | :----- |
-| `G1` to `F3` | [ @CharlesTheGreat77](https://github.com/CharlesTheGreat77) |
-| `G7` to `G6` | [ @MeBadDev](https://github.com/MeBadDev) |
-| `B1` to `C3` | [ @Casper-Guo](https://github.com/Casper-Guo) |
-| `A7` to `A5` | [ @Ali-Aljufairi](https://github.com/Ali-Aljufairi) |
-| `D2` to `D4` | [ @lulunac27a](https://github.com/lulunac27a) |
 
-<!-- END LAST MOVES -->
-</details>
 
-<details>
-  <summary>Top 10 most moves across all games</summary>
-<!-- BEGIN TOP MOVES -->
-
-| Total moves |  User  |
-| :---------: | :----- |
-| 25 | [@trinib](https://github.com/trinib) |
-| 14 | [@JayantGoel001](https://github.com/JayantGoel001) |
-| 8 | [@viktoriussuwandi](https://github.com/viktoriussuwandi) |
-| 4 | [@lulunac27a](https://github.com/lulunac27a) |
-| 3 | [@Sabyasachi-Seal](https://github.com/Sabyasachi-Seal) |
-| 2 | [@Basvdlouw](https://github.com/Basvdlouw) |
-| 2 | [@TomfromBerlin](https://github.com/TomfromBerlin) |
-| 2 | [@SagXD](https://github.com/SagXD) |
-| 2 | [@apluquet](https://github.com/apluquet) |
-| 2 | [@MeBadDev](https://github.com/MeBadDev) |
-
-<!-- END TOP MOVES -->
 
 </details>
 </details><h5 align="center">
@@ -281,24 +247,9 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 <!-- BEGIN MOVES LIST2 -->
 <!-- END MOVES LIST2 -->
 
-<details>
-  <summary>Last 5 moves in this game</summary>
-<!-- BEGIN LAST MOVES2 -->
 
-| Move | Author |
-| :--: | :----- |
-| `2` |  [ @Bean0-0](https://github.com/Bean0-0) | |
-| `3` |  [ @Vyadin](https://github.com/Vyadin) | |
-| `5` |  [ @Ali-Aljufairi](https://github.com/Ali-Aljufairi) | |
-| `4` |  [ @lulunac27a](https://github.com/lulunac27a) | |
-| `6` |  [ @barteknr1](https://github.com/barteknr1) | |
 
-<!-- END LAST MOVES2 -->
-</details>
 
-<details>
-  <summary>Top 10 most moves across all games</summary>
-<!-- BEGIN TOP MOVES2 -->
 
 | Total moves |  User  |
 | :---------: | :----- |
