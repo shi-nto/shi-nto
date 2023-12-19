@@ -330,20 +330,17 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
   </tr>
  </table>
 
-<div><h2>🐍 Welcom To Our Open World 🐍</h2></div>
+<div align=center><h2>🐍 Welcom To Our Open World 🐍</h2></div>
 
   
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 #
-<!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
-<h2 align="center">
-Join the Word Cloud Board :cloud: :pencil2:
 
-### :thought_balloon: <a href="https://github.com/trinib/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E"><b>Add your name</b></a> to see the word cloud update in real time :rocket:
 
-:star2: Don't like the arrangement? <a href="https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
+
+
 
 <h3 align="center">
 📛Aymanox📛 
