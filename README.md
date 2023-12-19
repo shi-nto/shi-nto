@@ -330,8 +330,9 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
   </tr>
  </table>
 
+<div><h2>🐍 Welcom To Our Open World 🐍</h2></div>
 
-  <h2>🐍 Welcom To Our Open World 🐍</h2>
+  
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
