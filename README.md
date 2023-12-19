@@ -251,18 +251,6 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 
 
 
-| Total moves |  User  |
-| :---------: | :----- |
-| 12 |  [@trinib](https://github.com/trinib) | |
-| 9 |  [@viktoriussuwandi](https://github.com/viktoriussuwandi) | |
-| 5 |  [@oxoovo](https://github.com/oxoovo) | |
-| 5 |  [@lulunac27a](https://github.com/lulunac27a) | |
-| 4 |  [@benzlokzik](https://github.com/benzlokzik) | |
-| 3 |  [@jhoitenga](https://github.com/jhoitenga) | |
-| 2 |  [@JayantGoel001](https://github.com/JayantGoel001) | |
-| 2 |  [@mauro-balades](https://github.com/mauro-balades) | |
-| 2 |  [@Cophhy](https://github.com/Cophhy) | |
-| 2 |  [@TomfromBerlin](https://github.com/TomfromBerlin) | |
 
 <!-- END TOP MOVES2 -->
 </details>
@@ -271,7 +259,7 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
   </tr>
  </table>
 
-<div align=center><h2>🐍 Welcom To Our Open World 🐍</h2></div>
+<div align=center><h1>🐍 Welcom To Our Open World 🐍</h1></div>
 
   
   <br>
