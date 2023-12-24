@@ -75,7 +75,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-[Demon Slayer](https://github.com/AymenBoussetta/Demon-aymanox-pixel-art)<br>
 [Kagoya]() In Progress
 
 ### 🌐 Epic Quest VR (Current)
