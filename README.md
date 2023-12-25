@@ -160,63 +160,6 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
  </table></div>
 
 
-<!-- 💼 Professional Background -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h3 style="font-family: 'Arial';">💼 Professional Background</h3>
-</div>
-<h3 style="font-family: 'Arial';" align="center">- 💻 **Languages:** C++, Blueprints</h3>
-<h3 style="font-family: 'Arial';" align="center">- 🛠️ **Tools:** Unreal Engine, Visual Studio, Perforce, Vroid Studio, Android Studio</h3>
-<h3 style="font-family: 'Arial';" align="center">- 🌐 **Technologies:** Virtual Reality (VR), Augmented Reality (AR)</h3>
-
-<!-- 🎮 Projects -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h3 style="font-family: 'Arial';">🎮 Projects</h3>
-</div>
-<h3 style="font-family: 'Arial';" align="center">-[Kagoya]() In Progress</h3>
-
-<!-- 🏆 Achievements -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h3 style="font-family: 'Arial';">🏆 Achievements</h3>
-</div>
-<h3 style="font-family: 'Arial';" align="center">-  Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.</h3>
-
-<!-- 🔧 Skills -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h3 style="font-family: 'Arial';">🔧 Skills</h3>
-</div>
-<h3 style="font-family: 'Arial';" align="center">- 🖥️ **Technical:** Advanced proficiency in Unreal Engine, strong C++ programming skills, expertise in VR and AR development.</h3>
-<h3 style="font-family: 'Arial';" align="center">- 🤝 **Soft Skills:** Effective communication, collaborative teamwork, and a passion for pushing creative boundaries.</h3>
-
-<!-- 📚 Educational Background -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h3 style="font-family: 'Arial';">📚 Educational Background</h3>
-</div>
-<h3 style="font-family: 'Arial';" align="center">- 🏫 Learning in EST Fes in Morocco</h3>
-
-
-<!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
-
-  
-<!-- 🤝 Contributions and Collaborations -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h3 style="font-family: 'Arial';">🤝 Contributions and Collaborations</h3>
-</div>
-<h3 style="font-family: 'Arial';" align="center">Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.</h3>
-
-<!-- 🌱 Learning and Growth -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h3 style="font-family: 'Arial';">🌱 Learning and Growth</h3>
-</div>
-<h3 style="font-family: 'Arial';" align="center">-Ongoing exploration of emerging technologies, staying</h3>
-
-<!-- 🚧 Motto -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h3 style="font-family: 'Arial';">🚧 Motto</h3>
-</div>
-<h3 style="font-family: 'Arial';" align="center">-"Transforming Ideas into Interactive Realities, One Line of Code at a Time."</h3>
-
 <div align=center><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" with="100%" /></div>
 
 
