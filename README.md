@@ -97,7 +97,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 
 <!-- TERMINAL / WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="100%" height="500">
 </p>
 
 <br>
