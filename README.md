@@ -53,9 +53,9 @@ Learning:  Go, Typescript
 FavouriteSong: 
 FavouriteMathConcept: Dot Product , Lerp Interpolation 
 Hobbies: Gaming,watching anime,coding while I am listening music
-My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花澤香菜 (Hanazawa Kana) || 上坂すみれ (Uesaka Sumire)🎤🎶🎼
-Dansei.Seiyuu (男性声優): 松岡禎丞 (Matsuoka Yoshitsugu) || 山口光雄 (amaguchi Mitsuo) || 石川界人 (Ishikawa Kaito)
-Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Minase Inori) || 瀬戸麻沙美 (Setō Asami)
+My.Idols (アイドル): 雨宮天 (Amamiya Sora)🎤🎶🎼
+Dansei.Seiyuu (男性声優): 松岡禎丞 (Matsuoka Yoshitsugu)
+Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり
 
 ```
 
@@ -109,8 +109,9 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </tr>
- 
- </table></div>
+ </table>
+  <img src="https://github.com/Kashinayma/Kashinayma/blob/main/Musinc.png" width="40%">
+ </div>
 
 
 
@@ -136,10 +137,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
   
 </div>
 
-<div style="border-radius:10px" align=center>
-  <img src="https://github.com/Kashinayma/Kashinayma/blob/main/Musinc.png" width="40%">
 
-</div>
 
  
 ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
