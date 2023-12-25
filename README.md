@@ -50,7 +50,7 @@ Location: Planet Kepler-452b
 Languages: C,C++, Python, Kotlin,java...
 Hobbyes: Python, C, C++
 Learning:  Go, Typescript
-FavouriteSong: 
+FavouriteSong: Unravel (Ado), Specialz King Gnu   <-- Spoti
 FavouriteMathConcept: Dot Product , Lerp Interpolation 
 Hobbies: Gaming,watching anime,coding while I am listening music
 My.Idols (アイドル): 雨宮天 (Amamiya Sora)🎤🎶🎼
