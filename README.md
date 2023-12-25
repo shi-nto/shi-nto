@@ -30,7 +30,7 @@
 
 <br>
 
-<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+<p align="center" style="font-size:40px"> 👁️‍🗨️ About me 👁️‍🗨️ </p>
 <img align="left" src="img/itsukigammer.png" width="182px"/> 
 
 ```csharp
