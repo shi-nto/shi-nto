@@ -117,25 +117,25 @@
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
 <div align="center">
-                                                       +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-                                                       @@       o o                                           @@
-                                                       @@       | |                                           @@
-                                                       @@      _L_L_                                          @@
-                                                       @@   ❮\/__-__\/❯ Programming isn't about what you know @@
-                                                       @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-                                                       @@   ❮/ \`-'/ \❯                                       @@
-                                                       @@     _/`U'\_                                         @@
-                                                       @@    ( .   . )     .----------------------------.     @@
-                                                       @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-                                                       @@   \ |  ,  | /    '----------------------------'     @@
-                                                       @@    \|=====|/                                        @@
-                                                       @@     |_.^._|                                         @@
-                                                       @@     | |"| |                                         @@
-                                                       @@     ( ) ( )   Testing leads to failure              @@
-                                                       @@     |_| |_|   and failure leads to understanding    @@
-                                                       @@ _.-' _j L_ '-._                                     @@
-                                                       @@(___.'     '.___)                                    @@
-                                                       +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+                                                       +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+ <br>
+                                                       @@       o o                                           @@<br>
+                                                       @@       | |                                           @@<br>
+                                                       @@      _L_L_                                          @@<br>
+                                                       @@   ❮\/__-__\/❯ Programming isn't about what you know @@<br>
+                                                       @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@<br>
+                                                       @@   ❮/ \`-'/ \❯                                       @@<br>
+                                                       @@     _/`U'\_                                         @@<br>
+                                                       @@    ( .   . )     .----------------------------.     @@<br>
+                                                       @@   / /     \ \    | while( ! (succed=try() ) ) |     @@<br>
+                                                       @@   \ |  ,  | /    '----------------------------'     @@<br>
+                                                       @@    \|=====|/                                        @@<br>
+                                                       @@     |_.^._|                                         @@<br>
+                                                       @@     | |"| |                                         @@<br>
+                                                       @@     ( ) ( )   Testing leads to failure              @@<br>
+                                                       @@     |_| |_|   and failure leads to understanding    @@<br>
+                                                       @@ _.-' _j L_ '-._                                     @@<br>
+                                                       @@(___.'     '.___)                                    @@<br>
+                                                       +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+<br>
                                                                             Arigato
   
   </div>
