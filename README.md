@@ -1,4 +1,13 @@
+<!-- GREETINGSTITLE / WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20With%20C%2B%2B%20+👋;+I'm+Aymen+Boussetta!;" />
+</h1>
+<div align=center><img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif"  width="60%"></div>
 
+****
 <!---
 <h1 align="center">Aymanoxos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 
@@ -26,7 +35,7 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-> neofetch
+> sudo apt update && sudo apt upgrade 😂
 ```
 
 <img align="left" src="img/itsukigammer.png" width="182px"/> 
@@ -96,15 +105,6 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 </div>  
 <br>
 
-
-<!-- GREETINGSTITLE / WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-</p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20With%20C%2B%2B%20+👋;+I'm+Aymen+Boussetta!;" />
-</h1>
-<div align=center><img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif"  width="60%"></div>
 
 
 
