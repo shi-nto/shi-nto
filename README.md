@@ -30,7 +30,7 @@
 <br>
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
-
+<br>
 ```zsh
 > sudo apt update && sudo apt upgrade && sudo (Ctrl + Z) 😂
 ```
