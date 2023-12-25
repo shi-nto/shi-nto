@@ -42,7 +42,7 @@ WhoamI: Game Developer
 OS: Garuda Linux "Raptor"
 Shell: zsh 5.9
 Fav.Anime(1): 五等分の花 (Boruto Naruto Next Generation)💒📕👰🏻ボルト
-Fav.Anime(2): からかい上手の高木さん (Sword Art Online) 🏞️🚅🌠
+Fav.Anime(2): ソードアートオンライン (Sword Art Online) 🏞️🚅🌠
 Fav.Anime(3) : Death Note (デスノート)
 Loves: 中野五月 (Bikes) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
 Pronouns: He/Him
