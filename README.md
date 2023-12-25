@@ -90,12 +90,14 @@
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
   <h2>🤝 Contributions and Collaborations</h2>
 </div>
-
+Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.
 <!-- 🌱 Learning and Growth -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
   <h2>🌱 Learning and Growth</h2>
 </div>
-Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.
+Ongoing exploration of emerging technologies, staying
+
+
 
 <!-- 🚧 Motto -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
