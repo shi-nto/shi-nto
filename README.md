@@ -101,6 +101,8 @@
 </div>
 <h3 style="font-family: 'Arial';" align="center">-"Transforming Ideas into Interactive Realities, One Line of Code at a Time."</h3>
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" with="100%" />
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
