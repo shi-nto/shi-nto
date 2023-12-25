@@ -239,7 +239,7 @@
     <td><h5 align="center"><details>
   <summary> <div align=center><h2><img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="35px" height="35px">&nbsp;Chess Tournament&nbsp;<img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="40px" height="40px"></h2></div></summary><p>
 
-<h4 align="left">
+<h4 align="center">
 
 
 
