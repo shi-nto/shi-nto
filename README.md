@@ -87,15 +87,12 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 
 
 
+<br>
 
 
 
 
 
-<!-- ILOVEOPENSOURCE -->
-<p align="center">
-  <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-</p>
 
 <!-- SPOTIFY / WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
