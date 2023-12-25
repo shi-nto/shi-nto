@@ -30,14 +30,6 @@
 <br>
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
-<br>
-<div align="center">
-  <p style="color:red; font-size:30px; font-family: monospace;">
-    <pre>aymanox@kaysen~> sudo apt update && sudo apt upgrade && sudo (Ctrl + Z) 😂</pre>
-  </p>
-</div>
-
-
 
 
 <img align="left" src="img/itsukigammer.png" width="182px"/> 
@@ -72,12 +64,6 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 
 </div>
 
-
-<h1 align="center"> My contributions game 🐍🎮</h1>
-
-![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
-<br>
 
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div> 
