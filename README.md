@@ -100,7 +100,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり
 
 
  
- <h2 align=center> Playing On 🎶🎶</h2>
+ <h2 align=center> 🎶🎶 Playing On 🎶🎶</h2>
 
 <br>
 <div align=center><table width=30%>
