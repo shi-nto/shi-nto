@@ -4,8 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20With%20C%2B%2B%20+👋;+I'm+Aymen+Boussetta!;" />
 </h1>
 
-<div align=center><img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif"  width="60%"></div>
---->
+<div align=center><img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif"  width="45%">
+<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="45%">
+</div>
+
 <div align="center">
 <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
@@ -20,9 +22,7 @@
 
 <body>
 <br>
-<div align="center">
-<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
-</div>
+
 <br>
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
