@@ -32,10 +32,11 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 <br>
 <div align="center">
-  <p style="color:red; font-size:30px; font-family: 'Courier New', monospace;">
+  <p style="color:red; font-size:30px; font-family: monospace;">
     <pre>$$aymanox@kaysen> sudo apt update && sudo apt upgrade && sudo (Ctrl + Z) 😂</pre>
   </p>
 </div>
+
 
 
 
