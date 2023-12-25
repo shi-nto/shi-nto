@@ -30,7 +30,8 @@
 
 <br>
 
-<p align="center" style="font-size:40px"> 👁️‍🗨️ About me 👁️‍🗨️ </p>
+## About Me >>@
+
 <img align="left" src="img/itsukigammer.png" width="182px"/> 
 
 ```csharp
