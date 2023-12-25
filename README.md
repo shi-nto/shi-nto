@@ -5,6 +5,7 @@
 </h1>
 
 <div align=center><img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif"  width="45%">
+   <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=Kashinayma&style=for-the-badge&color=1C8C8C">
 <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="45%">
 </div>
 
