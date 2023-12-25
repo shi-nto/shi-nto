@@ -28,10 +28,9 @@
 <body>
 <br>
 
-<br>
-
 ## About Me >>@
 
+<br>
 <img align="left" src="img/itsukigammer.png" width="182px"/> 
 
 ```csharp
