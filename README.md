@@ -45,11 +45,11 @@
 ```csharp
 My Profile v3.1.10: 復興「ふっこう」
 -------------------------------
-Username: Aymen Boussetta 「吉尾桂馬」
+Username: Aymen Boussetta 「アイマン・ポスティ」
 WhoamI: Game Developer
 OS: Garuda Linux "Raptor"
 Shell: zsh 5.9
-Fav.Anime(1): 五等分の花嫁 (Boruto Naruto Next Generation)💒📕👰🏻
+Fav.Anime(1): 五等分の花 (Boruto Naruto Next Generation)💒📕👰🏻ボルト
 Fav.Anime(2): からかい上手の高木さん (Death Note) 🏞️🚅🌠
 Loves: 中野五月 (Bikes) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
 Pronouns: He/Him
