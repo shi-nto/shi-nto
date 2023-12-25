@@ -31,7 +31,12 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 <br>
-<div align=center> <p style="color:red;font-size:30px;">$$aymanox@kaysen> sudo apt update && sudo apt upgrade && sudo (Ctrl + Z) 😂</p></div>
+<div align="center">
+  <p style="color:red; font-size:30px;">
+    <pre>$$aymanox@kaysen> sudo apt update && sudo apt upgrade && sudo (Ctrl + Z) 😂</pre>
+  </p>
+</div>
+
 
 
 <img align="left" src="img/itsukigammer.png" width="182px"/> 
