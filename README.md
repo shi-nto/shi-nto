@@ -5,7 +5,7 @@
 </h1>
 
 <div align=center><img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif"  width="45%">
-<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="45%" height="188px">
+<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="45%" height="190px">
 </div>
 
 <div align="center">
