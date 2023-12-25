@@ -9,6 +9,8 @@
       <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="40%">
 </div>
 
+<br><br>
+
 <div align=center> <img src="https://komarev.com/ghpvc/?username=Kashinayma&style=for-the-badge&color=1C8C8C"></div>
 
 <div align="center">
