@@ -64,12 +64,12 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり
 
 <div align=center>
 <a href="https://github.com/bloedboemmel">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=bloedboemmel&show_icons=true&theme=radical" height="200"/>
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200"/>
   
 </a>
 
 <a href="https://github.com/bloedboemmel">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=bloedboemmel&theme=radical"  height="200"/>
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=Kashinayma&theme=radical"  height="200"/>
 </a>
 
 </div>
