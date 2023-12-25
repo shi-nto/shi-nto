@@ -97,28 +97,6 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 
 </div>  
 <br>
-<div>
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-<div align="center">
-    <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif" width="500"/>
-  </div>
-<br> 
-<br>
-
-    
-<h1 align="center">Support Me 🎧🎤  </h1>
-
-<p align="center">
-⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
-</p>
-
-
-<a href="https://www.buymeacoffee.com/johnkun29" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center"></a>
-
-
-
-
-
 
 
 <!-- GREETINGSTITLE / WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
