@@ -1,12 +1,13 @@
 <!-- GREETINGSTITLE / WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20With%20C%2B%2B%20+👋;+I'm+Aymen+Boussetta!;" />
 </h1>
 
 <div align="center">
-      <img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif" width="40%" >
-      <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="40%">
+      <img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif" width="45%" >
+      <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="45%">
 </div>
 
 <br>
@@ -216,3 +217,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://github.com/Kashinayma/Kashinayma/blob/main/img/110881514-543db400-8295-11eb-9543-fd5d385ddb05.png" width="80%">
