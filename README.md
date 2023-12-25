@@ -113,9 +113,6 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
  </table></div>
 
 
-<div align=center><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" with="100%" /></div>
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
