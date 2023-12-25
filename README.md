@@ -72,8 +72,8 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <div align=center> 
-  <img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="50%" height=50%/>
-<img width=50% src="https://camo.githubusercontent.com/8a7a51548b2c84fc3e34153a4b25983d67f66daf7973920f7c410fcf719f4643/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d6d65726b6f">
+  <img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="45%" height=50%/>
+<img width=45% src="https://camo.githubusercontent.com/8a7a51548b2c84fc3e34153a4b25983d67f66daf7973920f7c410fcf719f4643/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d6d65726b6f">
  </div>
 
 
@@ -118,29 +118,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 
 
 
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
-
-                                                       +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-                                                       @@       o o                                           @@
-                                                       @@       | |                                           @@
-                                                       @@      _L_L_                                          @@
-                                                       @@   ❮\/__-__\/❯ Programming isn't about what you know @@
-                                                       @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-                                                       @@   ❮/ \`-'/ \❯                                       @@
-                                                       @@     _/`U'\_                                         @@
-                                                       @@    ( .   . )     .----------------------------.     @@
-                                                       @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-                                                       @@   \ |  ,  | /    '----------------------------'     @@
-                                                       @@    \|=====|/                                        @@
-                                                       @@     |_.^._|                                         @@
-                                                       @@     | |"| |                                         @@
-                                                       @@     ( ) ( )   Testing leads to failure              @@
-                                                       @@     |_| |_|   and failure leads to understanding    @@
-                                                       @@ _.-' _j L_ '-._                                     @@
-                                                       @@(___.'     '.___)                                    @@
-                                                       +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-                                                                            Arigato
 
 
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
