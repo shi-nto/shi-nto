@@ -32,7 +32,7 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-> sudo apt update && sudo apt upgrade 😂
+> sudo apt update && sudo apt upgrade && sudo (Ctrl + Z) 😂
 ```
 
 <img align="left" src="img/itsukigammer.png" width="182px"/> 
