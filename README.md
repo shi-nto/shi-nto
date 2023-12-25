@@ -101,7 +101,8 @@
 </div>
 <h3 style="font-family: 'Arial';" align="center">-"Transforming Ideas into Interactive Realities, One Line of Code at a Time."</h3>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" with="100%" />
+<div align=center><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" with="100%" /></div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -228,20 +229,6 @@
 <!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
-
-
-
-
-
-
-
-
-<div align=center><h1>🐍 Welcom To Our Open World 🐍</h1></div>
-
-  
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" with="100%" />
-</div>
 
 
 
