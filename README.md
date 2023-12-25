@@ -31,9 +31,7 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-
-
-
+<img align="left" src="img/itsukigammer.png" width="182px"/> 
 ```csharp
 My Profile v3.1.10: 復興「ふっこう」
 -------------------------------
