@@ -70,8 +70,8 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 <br>
 
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<div><p align="center">
-<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150"><br>
+<div><p>
+<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="30%"><br>
 <p>
 <img src="https://camo.githubusercontent.com/8a7a51548b2c84fc3e34153a4b25983d67f66daf7973920f7c410fcf719f4643/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d6d65726b6f">
  </div>
