@@ -9,7 +9,7 @@
 
 <div align="center">
       <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="40%">
-      <img src="https://github.com/Kashinayma/Kashinayma/blob/main/Musinc.png" width="40%" height=50%>
+      <img src="https://github.com/Kashinayma/Kashinayma/blob/main/Musinc.png" width="40%" height=30%>
 </div>
 
 <br>
