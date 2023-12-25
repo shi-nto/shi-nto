@@ -8,7 +8,6 @@
 </h1>
 
 <div align="center">
-
       <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="60%">
 </div>
 
