@@ -5,15 +5,8 @@
 </h1>
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between; width: 70%;">
-    <div style="width: 45%;">
       <img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif" width="100%" height="50%">
-      <img draggable="false" style="width: 100%; height: 50%;" src="https://komarev.com/ghpvc/?username=Kashinayma&style=for-the-badge&color=1C8C8C">
-    </div>
-    <div style="width: 45%;">
       <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="100%">
-    </div>
-  </div>
 </div>
 
 
