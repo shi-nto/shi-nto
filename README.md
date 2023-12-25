@@ -50,60 +50,56 @@
 
 <br>
 
-<!-- 🚧 Presentation Skills Section -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 18px;">
-  <h1>🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Game Development</h1>
-</div>
-
 <!-- 💼 Professional Background -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h2>💼 Professional Background</h2>
+  <h3 style="font-family: 'Arial';">💼 Professional Background</h3>
 </div>
-- 💻 **Languages:** C++, Blueprints
-- 🛠️ **Tools:** Unreal Engine, Visual Studio, Perforce, Vroid Studio, Android Studio
-- 🌐 **Technologies:** Virtual Reality (VR), Augmented Reality (AR)
+<h3 style="font-family: 'Arial';" align="center">- 💻 **Languages:** C++, Blueprints</h3>
+<h3 style="font-family: 'Arial';" align="center">- 🛠️ **Tools:** Unreal Engine, Visual Studio, Perforce, Vroid Studio, Android Studio</h3>
+<h3 style="font-family: 'Arial';" align="center">- 🌐 **Technologies:** Virtual Reality (VR), Augmented Reality (AR)</h3>
 
 <!-- 🎮 Projects -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h2>🎮 Projects</h2>
+  <h3 style="font-family: 'Arial';">🎮 Projects</h3>
 </div>
-[Kagoya]() In Progress
+<h3 style="font-family: 'Arial';" align="center">-[Kagoya]() In Progress</h3>
 
 <!-- 🏆 Achievements -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h2>🏆 Achievements</h2>
+  <h3 style="font-family: 'Arial';">🏆 Achievements</h3>
 </div>
-  Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.
+<h3 style="font-family: 'Arial';" align="center">-  Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.</h3>
+
 <!-- 🔧 Skills -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h2>🔧 Skills</h2>
+  <h3 style="font-family: 'Arial';">🔧 Skills</h3>
 </div>
-- 🖥️ **Technical:** Advanced proficiency in Unreal Engine, strong C++ programming skills, expertise in VR and AR development.
-- 🤝 **Soft Skills:** Effective communication, collaborative teamwork, and a passion for pushing creative boundaries.
+<h3 style="font-family: 'Arial';" align="center">- 🖥️ **Technical:** Advanced proficiency in Unreal Engine, strong C++ programming skills, expertise in VR and AR development.</h3>
+<h3 style="font-family: 'Arial';" align="center">- 🤝 **Soft Skills:** Effective communication, collaborative teamwork, and a passion for pushing creative boundaries.</h3>
 
 <!-- 📚 Educational Background -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h2>📚 Educational Background</h2>
+  <h3 style="font-family: 'Arial';">📚 Educational Background</h3>
 </div>
-- 🏫 Learning in EST Fes in Morocco
+<h3 style="font-family: 'Arial';" align="center">- 🏫 Learning in EST Fes in Morocco</h3>
+
 <!-- 🤝 Contributions and Collaborations -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h2>🤝 Contributions and Collaborations</h2>
+  <h3 style="font-family: 'Arial';">🤝 Contributions and Collaborations</h3>
 </div>
-Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.
+<h3 style="font-family: 'Arial';" align="center">Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.</h3>
+
 <!-- 🌱 Learning and Growth -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h2>🌱 Learning and Growth</h2>
+  <h3 style="font-family: 'Arial';">🌱 Learning and Growth</h3>
 </div>
-Ongoing exploration of emerging technologies, staying
-
-
+<h3 style="font-family: 'Arial';" align="center">-Ongoing exploration of emerging technologies, staying</h3>
 
 <!-- 🚧 Motto -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
-  <h2>🚧 Motto</h2>
+  <h3 style="font-family: 'Arial';">🚧 Motto</h3>
 </div>
-"Transforming Ideas into Interactive Realities, One Line of Code at a Time."
+<h3 style="font-family: 'Arial';" align="center">-"Transforming Ideas into Interactive Realities, One Line of Code at a Time."</h3>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
