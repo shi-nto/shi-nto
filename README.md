@@ -4,13 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20With%20C%2B%2B%20+👋;+I'm+Aymen+Boussetta!;" />
 </h1>
 
-<div align=center>
-  <div style="display:flex;"> 
-    <img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif"  width="100%" height="50%">
-   <img draggable="false"style="witdh:100%;height:50%;" src="https://komarev.com/ghpvc/?username=Kashinayma&style=for-the-badge&color=1C8C8C">
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 70%;">
+    <div style="width: 45%;">
+      <img src="https://github.com/Kashinayma/Kashinayma/blob/main/work_ex.gif" width="100%" height="50%">
+      <img draggable="false" style="width: 100%; height: 50%;" src="https://komarev.com/ghpvc/?username=Kashinayma&style=for-the-badge&color=1C8C8C">
+    </div>
+    <div style="width: 45%;">
+      <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="100%">
+    </div>
   </div>
-<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="45%">
 </div>
+
 
 <div align="center">
 <a href="https://github.com/kawarimidoll/typograssy">
