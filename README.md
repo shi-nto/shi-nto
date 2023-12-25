@@ -135,7 +135,10 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
   
 </div>
 
+<div style="border-radius:10px" align=center>
+  <img src="https://github.com/Kashinayma/Kashinayma/blob/main/Musinc.png" width="80%">
 
+</div>
 
  
 ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
@@ -218,7 +221,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="border-radius:10px" align=center>
-  <img src="https://github.com/Kashinayma/Kashinayma/blob/main/img/110881514-543db400-8295-11eb-9543-fd5d385ddb05.png" width="80%">
 
-</div>
