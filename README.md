@@ -70,10 +70,9 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 <br>
 
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<div><p>
-<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="30%"><br>
-<p>
+<div>
 <img src="https://camo.githubusercontent.com/8a7a51548b2c84fc3e34153a4b25983d67f66daf7973920f7c410fcf719f4643/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d6d65726b6f">
+<img src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" alt="Jokes Card" width="400">
  </div>
 
 
@@ -220,8 +219,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30">
 
 <!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
-<p align="center">
-<img src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" alt="Jokes Card" width="400">
+
 
 
 
