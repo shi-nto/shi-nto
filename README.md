@@ -33,7 +33,7 @@
 <br>
 <div align="center">
   <p style="color:red; font-size:30px; font-family: monospace;">
-    <pre>$$aymanox@kaysen> sudo apt update && sudo apt upgrade && sudo (Ctrl + Z) 😂</pre>
+    <pre>aymanox@kaysen~> sudo apt update && sudo apt upgrade && sudo (Ctrl + Z) 😂</pre>
   </p>
 </div>
 
