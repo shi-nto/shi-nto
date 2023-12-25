@@ -36,21 +36,20 @@
 ```csharp
 My Profile v3.1.10: 復興「ふっこう」
 -------------------------------
-Username: Yoshio Keima 「吉尾桂馬」
-WhoamI: Physicist and Computer Engineer. Also musician (more or less)
+Username: Aymen Boussetta 「吉尾桂馬」
+WhoamI: Game Developer
 OS: Garuda Linux "Raptor"
 Shell: zsh 5.9
-Telegram: @yoshimakayaba.
-Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
-Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
+Fav.Anime(1): 五等分の花嫁 (Boruto Naruto Next Generation)💒📕👰🏻
+Fav.Anime(2): からかい上手の高木さん (Death Note) 🏞️🚅🌠
+Loves: 中野五月 (Bikes) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
 Pronouns: He/Him
 Location: Planet Kepler-452b
-Languages: C,C++, Python, Kotlin
+Languages: C,C++, Python, Kotlin,java...
 Hobbyes: Python, C, C++
-Learning: Swift, Kotlin, Go, Js,CSS and HTML
-FavouriteSong: Sweeter than wine by NCW
-FavouriteEquation: Schrödinger equation
+Learning:  Go, Typescript
+FavouriteSong: 
+FavouriteMathConcept: Dot Product , Lerp Interpolation 
 Hobbies: Gaming,watching anime,coding while I am listening music
 My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花澤香菜 (Hanazawa Kana) || 上坂すみれ (Uesaka Sumire)🎤🎶🎼
 Dansei.Seiyuu (男性声優): 松岡禎丞 (Matsuoka Yoshitsugu) || 山口光雄 (amaguchi Mitsuo) || 石川界人 (Ishikawa Kaito)
