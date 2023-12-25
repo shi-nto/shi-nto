@@ -50,92 +50,50 @@
 
 <br>
 
-<div align=center>
+<!-- 🚧 Presentation Skills Section -->
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 18px;">
   <h1>🚀 Unleashing Imagination in Virtual Realms: A Journey in Unreal Game Development</h1>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<!-- 💼 Professional Background -->
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
+  <h2>💼 Professional Background</h2>
+</div>
 
-## 💼 Professional Background
+<!-- 🎮 Projects -->
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
+  <h2>🎮 Projects</h2>
+</div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<!-- 🏆 Achievements -->
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
+  <h2>🏆 Achievements</h2>
+</div>
 
-- 💻 **Languages:** C++, Blueprints
-- 🛠️ **Tools:** Unreal Engine, Visual Studio, Perforce, Vroid Studio, Android Studio
-- 🌐 **Technologies:** Virtual Reality (VR), Augmented Reality (AR)
+<!-- 🔧 Skills -->
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
+  <h2>🔧 Skills</h2>
+</div>
 
-## 🎮 Projects
+<!-- 📚 Educational Background -->
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
+  <h2>📚 Educational Background</h2>
+</div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<!-- 🤝 Contributions and Collaborations -->
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
+  <h2>🤝 Contributions and Collaborations</h2>
+</div>
 
-[Kagoya]() In Progress
+<!-- 🌱 Learning and Growth -->
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
+  <h2>🌱 Learning and Growth</h2>
+</div>
 
-### 🌐 Epic Quest VR (Current)
-Leading the development of an immersive VR game, leveraging Unreal Engine's cutting-edge features to create an engaging and visually stunning experience. Managing the entire development life cycle from concept to release.
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-### 🌐 Galactic Odyssey (Past)
-Contributed to the development of a space exploration game, implementing complex gameplay mechanics and optimizing performance for a seamless player experience.
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-- Demon Slayer Game (Full C++)
-- Kagoya (In Progress)
-
-## 🔧 Skills
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-- 🖥️ **Technical:** Advanced proficiency in Unreal Engine, strong C++ programming skills, expertise in VR and AR development.
-- 🤝 **Soft Skills:** Effective communication, collaborative teamwork, and a passion for pushing creative boundaries.
-
-## 📚 Educational Background
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-- 🏫 Learning in EST Fes in Morocco
-
-## 🤝 Contributions and Collaborations
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-Actively contributing to the Unreal Engine community through open-source projects and participating in collaborative game development forums.
-
-## 🌱 Learning and Growth
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-Ongoing exploration of emerging technologies, staying
-
-
-## 🚧 Motto
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-"Transforming Ideas into Interactive Realities, One Line of Code at a Time."
+<!-- 🚧 Motto -->
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
+  <h2>🚧 Motto</h2>
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
