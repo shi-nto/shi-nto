@@ -99,8 +99,8 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり
 
 
 
-
-Is Playing )______(
+ 
+ <h2 align=center> Is Playing )______( </h2>
 
 <br>
 <div align=center><table width=30%>
