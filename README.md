@@ -83,6 +83,12 @@
 </div>
 <h3 style="font-family: 'Arial';" align="center">- 🏫 Learning in EST Fes in Morocco</h3>
 
+
+<!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
+
+  
 <!-- 🤝 Contributions and Collaborations -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 16px;">
   <h3 style="font-family: 'Arial';">🤝 Contributions and Collaborations</h3>
@@ -223,12 +229,7 @@
   <img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="260px"/>
 
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
 
 
 
