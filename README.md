@@ -218,5 +218,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="border-radius:10px">
+  <img src="https://github.com/Kashinayma/Kashinayma/blob/main/img/110881514-543db400-8295-11eb-9543-fd5d385ddb05.png" width="80%">
 
-<img src="https://github.com/Kashinayma/Kashinayma/blob/main/img/110881514-543db400-8295-11eb-9543-fd5d385ddb05.png" width="80%">
+</div>
