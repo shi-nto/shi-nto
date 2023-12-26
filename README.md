@@ -53,9 +53,6 @@ Learning:  Go, Typescript
 FavouriteSong: Unravel (Ado), Specialz King Gnu   <-- Spoti
 FavouriteMathConcept: Dot Product , Lerp Interpolation 
 Hobbies: Gaming,watching anime,coding while I am listening music
-My.Idols (アイドル): 雨宮天 (Amamiya Sora)🎤🎶🎼
-Dansei.Seiyuu (男性声優): 松岡禎丞 (Matsuoka Yoshitsugu)
-Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり
 
 ```
 
