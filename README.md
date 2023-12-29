@@ -29,9 +29,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
 </h1>
 <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230px"> 
-<div align="left">
-      <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="40%">
+<div align='left'>
+<a href="https://github.com/bloedboemmel">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=Kashinayma&theme=radical"  height="200"/>
+</a>
 </div>
+
 
 <br>
 
@@ -40,10 +43,8 @@
 <br>
 <div align="center">
 <a>
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+    <img alt="typograssy" width=40% src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
 </a>
-
-
 </div>
 
 
