@@ -38,7 +38,7 @@
 
 <br>
 
-<div align=center> <img src="https://komarev.com/ghpvc/?username=Kashinayma&style=for-the-badge&color=1C8C8C"></div>
+<div align=center> <img width=40% src="https://komarev.com/ghpvc/?username=Kashinayma&style=for-the-badge&color=1C8C8C"></div>
 
 <br>
 <div align="center">
