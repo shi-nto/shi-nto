@@ -12,11 +12,11 @@
 
 
 >>> Myself Rahul Singh ✌🏻<br>
->>> Hey there! 👋 I'm a passionate and fast-learning Python developer. 🚀 As a fresher in the coding realm, I specialize in crafting sleek and intuitive GUI applications using Tkinter. 🎨 When it comes to building scalable solutions, I love diving into Flask and Socket for creating small-scale applications that pack a punch! 💻
+>>> And let's not forget Aymen Boussetta! 👋🌟 Aymen is a dynamic individual who adds his own flair to the tech world. 💡 As someone with a passion for coding and a commitment to continuous learning, Aymen brings a fresh perspective to the coding realm.
 <br>
 
 >>> 
-But that's not all—I bring a creative touch to the tech world. 🎧 With hands-on experience in music production using FL Studio, I find harmony in both the code and the beats.🎶
+In the spirit of adventure, Aymen shares a love for VTT biking. 🚵‍♂️ The thrill of the ride, the freedom of the open trails—these experiences parallel the excitement he brings to his coding endeavors. Aymen is not just a coder; he's an explorer of both digital landscapes and rugged biking paths.
 <hr width=50%/>
 <br>
 <br>
