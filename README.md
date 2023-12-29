@@ -29,8 +29,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
 </h1>
 <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230px"> 
-<div align='left'>
-
+ 
 </div>
 
 
@@ -41,7 +40,7 @@
 
 <div width=100%>
 <div align=left with=75%>
-  <img width=40% src="https://komarev.com/ghpvc/?username=Kashinayma&style=for-the-badge&color=1C8C8C">
+   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=Kashinayma&theme=radical"  height="200"/>
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200"/>
 </div>
   
