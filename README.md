@@ -52,3 +52,27 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aymonoxos"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aymonoxos" /></a></p><br><br>
+
+
+<div>
+ <div>
+  <img src="./assets/images/haruhiro.png" align="left">
+  <p align="right">
+
+   &nbsp;
+    
+   &nbsp;&#10022; Just call me **Old Cat**
+
+   &nbsp;&#10022; Currently pursuing an applied bachelor's degree in **informatics engineering**
+
+   &nbsp;&#10022; Have good understanding of Web Development
+
+   &nbsp;&#10022; Have understanding in Bahasa (native), English (fluent), 日本語 (a little bit)
+
+   &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Get N5 日本語 certificate
+   
+   &nbsp;&#10022; Let's talk about Web development, Security, And Anime stuff
+   
+  </p>
+ </div>
+</div>
