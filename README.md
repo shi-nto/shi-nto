@@ -44,7 +44,7 @@
 <div width=100%>
 <div align=left with=75%>
   <img width=40% src="https://komarev.com/ghpvc/?username=Kashinayma&style=for-the-badge&color=1C8C8C">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200"/>
+ 
 </div>
   
   <div align=right width=20%>
