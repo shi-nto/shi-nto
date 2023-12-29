@@ -56,7 +56,7 @@
 
 <div>
  <div>
-  <img src="./assets/images/haruhiro.png" align="left">
+  <img src="https://github.com/Kashinayma/Kashinayma/blob/main/images/haruhiro.png" align="left">
   <p align="right">
 
    &nbsp;
