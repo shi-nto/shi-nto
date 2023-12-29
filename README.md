@@ -53,30 +53,6 @@
 
 
 
-<img align="center" src="img/itsukigammer.png" width="182px"/> 
-
-```csharp
-My Profile v3.1.10: 復興「ふっこう」
--------------------------------
-Username: Aymen Boussetta 「アイマン・ポスティ」
-WhoamI: Game Developer
-OS: Garuda Linux "Raptor"
-Shell: zsh 5.9
-Fav.Anime(1): 五等分の花 (Boruto Naruto Next Generation)💒📕👰🏻ボルト
-Fav.Anime(2): ソードアートオンライン (Sword Art Online) 🏞️🚅🌠
-Fav.Anime(3) : Death Note (デスノート)
-Loves: 中野五月 (Bikes) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
-Pronouns: He/Him
-Location: Planet Kepler-452b
-Languages: C,C++, Python, Kotlin,java...
-Hobbyes: Python, C, C++
-Learning:  Go, Typescript
-FavouriteSong: Unravel (Ado), Specialz King Gnu   <-- Spoti
-FavouriteMathConcept: Dot Product , Lerp Interpolation 
-Hobbies: Gaming,watching anime,coding while I am listening music
-
-```
-
 
 <br>
 
