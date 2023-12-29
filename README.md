@@ -15,7 +15,6 @@
 
 >>> In the spirit of adventure, Aymen shares a love for VTT biking. 🚵‍♂️ The thrill of the ride, the freedom of the open trails—these experiences parallel the excitement he brings to his coding endeavors. Aymen is not just a coder; he's an explorer of both digital landscapes and rugged biking paths. <br>
 
->>>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
