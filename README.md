@@ -1,5 +1,16 @@
 <!-- GREETINGSTITLE / WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+
+
+<h1 align="center"> 
+<img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></h1>
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
+</h1>
+
+
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82"> <br>
 
