@@ -2,11 +2,9 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 
 
-<h1 align="center"> 
-<img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></h1>
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
-</h1>
+<div align="center"> 
+<img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></div>
+
 
 
 
