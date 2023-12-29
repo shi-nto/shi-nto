@@ -5,6 +5,23 @@
 <div align="center"> 
 <img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></div>
 
+<img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
+
+### ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
+
+
+
+>>> Myself Rahul Singh ✌🏻<br>
+>>> Hey there! 👋 I'm a passionate and fast-learning Python developer. 🚀 As a fresher in the coding realm, I specialize in crafting sleek and intuitive GUI applications using Tkinter. 🎨 When it comes to building scalable solutions, I love diving into Flask and Socket for creating small-scale applications that pack a punch! 💻
+<br>
+
+>>> 
+But that's not all—I bring a creative touch to the tech world. 🎧 With hands-on experience in music production using FL Studio, I find harmony in both the code and the beats.🎶
+<hr width=50%/>
+<br>
+<br>
+<br>
+<img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230"> 
 
 
 
