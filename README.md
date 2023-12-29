@@ -30,9 +30,7 @@
 </h1>
 <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230px"> 
 <div align='left'>
-<a href="https://github.com/bloedboemmel">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=Kashinayma&theme=radical"  height="200"/>
-</a>
+
 </div>
 
 
