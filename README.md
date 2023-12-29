@@ -18,7 +18,7 @@
 >>> In the spirit of adventure, Aymen shares a love for VTT biking. 🚵‍♂️ The thrill of the ride, the freedom of the open trails—these experiences parallel the excitement he brings to his coding endeavors. Aymen is not just a coder; he's an explorer of both digital landscapes and rugged biking paths. <br>
 
 >>> 
-<hr width=50%/>
+
 
 <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230"> 
 
