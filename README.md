@@ -53,7 +53,7 @@
 
 
 
-<img align="left" src="img/itsukigammer.png" width="182px"/> 
+<img align="center" src="img/itsukigammer.png" width="182px"/> 
 
 ```csharp
 My Profile v3.1.10: 復興「ふっこう」
