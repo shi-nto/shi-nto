@@ -19,9 +19,7 @@
 
 >>> 
 <hr width=50%/>
-<br>
-<br>
-<br>
+
 <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230"> 
 
 
