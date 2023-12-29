@@ -34,7 +34,7 @@
 
 
 <div align=center width=100%>
-     <img align="left" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200" width="85%"/>
+     <img align="left" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical"  width="85%"/>
      <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="15%">
 </div>
 
