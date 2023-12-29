@@ -28,8 +28,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
 </h1>
-> 
- 
 </div>
 
 
@@ -44,18 +42,12 @@
 </div>
 
 
-
-  </div>
-  </div>
 <br>
 <br>
 <br>
 
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<div align=center> 
 
-<img width=45% src="https://camo.githubusercontent.com/8a7a51548b2c84fc3e34153a4b25983d67f66daf7973920f7c410fcf719f4643/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d6d65726b6f">
- </div>
 
 
 
