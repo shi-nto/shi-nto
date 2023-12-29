@@ -40,7 +40,7 @@
 
 <div width=100%>
      <img align="left" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200"/>
-  <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="15%">
+  <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="20%">
 </div>
 
 
@@ -53,9 +53,7 @@
 </a>
 </div>
 
-//<div align="left">
-      <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="40%">
-</div>
+
 
 <body>
 <br>
