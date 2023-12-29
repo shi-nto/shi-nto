@@ -46,37 +46,8 @@
 
 
 
-
-
-
-<br>
-
-
-
-
-
- 
- <h2 align=center> 🎶🎶 Playing On 🎶🎶</h2>
-
-<br>
-<div align=center><table width=30%>
-  <tr>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </tr>
- </table>
-  <img src="https://github.com/Kashinayma/Kashinayma/blob/main/Musinc.png" width="40%">
- </div>
-
-
-
-
-<br>
-
-
-
-
+<br
+  >
 
 
 <p align="center">
