@@ -41,7 +41,7 @@
 <div width=100%>
 <div align=left with=70%>
    <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=Kashinayma&theme=radical"  height="200"/>
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200"/>
+
 </div>
   <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="15%">
 </div>
