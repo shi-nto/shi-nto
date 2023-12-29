@@ -1,9 +1,7 @@
-<!-- GREETINGSTITLE / WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-
 
 <div align="center"> 
-<img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></div>
+<img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px">
+</div>
 
 <img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
 
@@ -28,7 +26,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
 </h1>
-</div>
 
 
 
