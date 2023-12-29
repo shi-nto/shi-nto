@@ -41,7 +41,7 @@
 
 
 
-
+<h1 align="left"> <strong>I N C R E D I B L E</strong></h1>
 <div align="center">
   <img width="90%" height="auto" src=https://github.com/Kashinayma/Kashinayma/blob/main/img/FSN.gif>
 </div>
