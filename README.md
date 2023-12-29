@@ -39,7 +39,7 @@
 
 
 <div align=center>
-     <img align="left" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200" width="79%"/>
+     <img align="left" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200" width="77%"/>
      <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="20%">
 </div>
 
