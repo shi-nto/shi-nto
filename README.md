@@ -38,7 +38,7 @@
 
 
 <div align="center">
-  <img width="720" height="auto" src=Add-ons/FSN.gif>
+  <img width="720" height="auto" src=https://github.com/Kashinayma/Kashinayma/blob/main/img/FSN.gif>
 </div>
 
 <br>
