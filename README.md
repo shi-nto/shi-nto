@@ -40,7 +40,7 @@
 
 <div align=center>
      <img align="left" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200" width="74%"/>
-     <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="20%">
+     <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="15%">
 </div>
 
 
@@ -56,15 +56,7 @@
 
 <br>
 
-<div align=center>
-<a href="https://github.com/bloedboemmel">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Kashinayma&show_icons=true&theme=radical" height="200"/>
-  
-</a>
 
-<a href="https://github.com/bloedboemmel">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=Kashinayma&theme=radical"  height="200"/>
-</a>
 
 </div>
 
