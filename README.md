@@ -21,11 +21,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
 </h1>
 
-<div align=center>
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Kashinayma&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashinayma&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html) |
 | ----- | ----- |
 
-</div>
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
