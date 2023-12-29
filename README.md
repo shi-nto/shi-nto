@@ -21,7 +21,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
 </h1>
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Kashinayma&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PintoGamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Kashinayma&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kashinayma&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
 
 
