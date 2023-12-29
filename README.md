@@ -61,17 +61,17 @@
 
    &nbsp;
     
-   &nbsp;&#10022; Just call me **Old Cat**
+   &nbsp;&#10022;<p align="left">
+ &nbsp;&#10022;<a href="https://twitter.com/aymanoxos_66500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- &nbsp;&#10022;generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aymanoxos_66500" height="30" width="40" /></a>
+ &nbsp;&#10022;<a href="https://linkedin.com/in/aymen-boussetta-6152092a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- &nbsp;&#10022;generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aymen-boussetta-6152092a5/" height="30" width="40" /></a>
+ &nbsp;&#10022;<a href="https://stackoverflow.com/users/22129591/aymen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- &nbsp;&#10022;generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22129591/aymen" height="30" width="40" /></a>
+ &nbsp;&#10022;<a href="https://web.facebook.com/profile.php?id=100092500372590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- &nbsp;&#10022;readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100092500372590" height="30" width="40" /></a>
+ &nbsp;&#10022;<a href="https://instagram.com/aymonoxos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- &nbsp;&#10022;generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aymonoxos/" height="30" width="40" /></a>
+ &nbsp;&#10022;<a href="https://www.leetcode.com/aymenboussetta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aymenboussetta/" height="30" width="40" /></a>
+ &nbsp;&#10022;<a href="https://discord.gg/1132151125613760574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1132151125613760574" height="30" width="40" /></a>
+</p>
 
-   &nbsp;&#10022; Currently pursuing an applied bachelor's degree in **informatics engineering**
 
-   &nbsp;&#10022; Have good understanding of Web Development
-
-   &nbsp;&#10022; Have understanding in Bahasa (native), English (fluent), 日本語 (a little bit)
-
-   &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Get N5 日本語 certificate
-   
-   &nbsp;&#10022; Let's talk about Web development, Security, And Anime stuff
    
   </p>
  </div>
