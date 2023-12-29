@@ -27,7 +27,7 @@
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=Classroom_Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=SofiaPlus&theme=radical&hide_border=true) |
+| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=SAO_unreal-physic_Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=SofiaPlus&theme=radical&hide_border=true) |
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
