@@ -50,19 +50,6 @@
 <br>
 <br>
 
-
-
-
-
-<br>
-
-
-
-</div>
-
-
-<br>
-
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <div align=center> 
 
