@@ -15,7 +15,11 @@
 
 >>> In the spirit of adventure, Aymen shares a love for VTT biking. 🚵‍♂️ The thrill of the ride, the freedom of the open trails—these experiences parallel the excitement he brings to his coding endeavors. Aymen is not just a coder; he's an explorer of both digital landscapes and rugged biking paths. <br>
 
->>> 
+>>>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
+</h1>
 
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PintoGamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
@@ -33,9 +37,6 @@
 > ## Provided by <code>[Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code>[Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code> & <code>[Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph)</code>
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
-</h1>
 
 
 
