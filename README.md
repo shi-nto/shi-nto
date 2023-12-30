@@ -54,7 +54,19 @@
 <p><a href="https://www.buymeacoffee.com/aymonoxos"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aymonoxos" /></a></p><br><br>
 
 
+<br>
 
+
+<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210">
+ 
+  ### Connect Me..(●'◡'●)
+ 
+<a href="https://www.linkedin.com/in/rahul-singh-536017284/"><img height="35" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
+<a href="mailto:rsrahulak0@gmail.com"><img height="25" src="https://img.icons8.com/fluent/48/000000/gmail.png"></a>
+<a href="https://www.youtube.com/channel/UCJO4DKXB4kfuqKBkpNy7hMQ"><img height="30" src="https://img.icons8.com/fluent/48/000000/youtube.png"></a> 
+Ready to collaborate and innovate, I'm excited about the endless possibilities that code and creativity can bring! Let's build something awesome together! 🚀✨
+
+     
 
 
   </p>
