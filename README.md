@@ -61,10 +61,6 @@
 <a href="https://instagram.com/aymonoxos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aymonoxos/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aymenboussetta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aymenboussetta/" height="30" width="40" /></a>
 <a href="https://discord.gg/1132151125613760574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1132151125613760574" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahul-singh-536017284/"><img height="35" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
-<a href="mailto:rsrahulak0@gmail.com"><img height="25" src="https://img.icons8.com/fluent/48/000000/gmail.png"></a>
-<a href="https://www.youtube.com/channel/UCJO4DKXB4kfuqKBkpNy7hMQ"><img height="30" src="https://img.icons8.com/fluent/48/000000/youtube.png"></a> 
-Ready to collaborate and innovate, I'm excited about the endless possibilities that code and creativity can bring! Let's build something awesome together! 🚀✨
 
      
 
