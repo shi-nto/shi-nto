@@ -56,7 +56,7 @@
 
 <div>
  <div>
-  <img src="https://github.com/Kashinayma/Kashinayma/blob/main/images/haruhiro.png" align="left">
+ x
 
   <p align="right">
      <br>
@@ -77,7 +77,7 @@
 </p>
 
 
-   
+   align="center"
   </p>
  </div>
 </div>
