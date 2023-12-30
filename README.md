@@ -2,6 +2,9 @@
 <div align="center"> 
 <img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px">
 </div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
+</h1>
 
 <img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
 
@@ -16,9 +19,7 @@
 >>> In the spirit of adventure, Aymen shares a love for VTT biking. 🚵‍♂️ The thrill of the ride, the freedom of the open trails—these experiences parallel the excitement he brings to his coding endeavors. Aymen is not just a coder; he's an explorer of both digital landscapes and rugged biking paths. <br>
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
-</h1>
+
 
 | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=rsrahulak0&theme=algolia&hide_border=true&width=49%) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashinayma&langs_count=8&layout=compact&bg_color=1039&title_color=ffffff&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html) |
 | ----- | ----- |
