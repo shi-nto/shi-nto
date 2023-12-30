@@ -55,9 +55,8 @@
 
 <h2>Hello world</h2>
 
-<img aling="left" src="https://github.com/Kashinayma/Kashinayma/blob/main/images/haruhiro.png">
-
-  <p align="right">
+<div>
+    <p align="right">
      <br>
    <br>
    <br>
@@ -72,6 +71,10 @@
  &nbsp;<a href="https://www.leetcode.com/aymenboussetta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aymenboussetta/" height="30" width="40" /></a>
  &nbsp;<a href="https://discord.gg/1132151125613760574" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1132151125613760574" height="30" width="40" /></a>
 </p>
+</div>
+<img aling="left" src="https://github.com/Kashinayma/Kashinayma/blob/main/images/haruhiro.png">
+
+
 
 
   </p>
