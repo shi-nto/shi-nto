@@ -49,7 +49,8 @@
 <a href="https://web.facebook.com/profile.php?id=100092500372590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100092500372590" height="30" width="40" /></a>
 <a href="https://instagram.com/aymonoxos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aymonoxos/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aymenboussetta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aymenboussetta/" height="30" width="40" /></a>
-<a href="https://discord.gg/1132151125613760574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1132151125613760574" height="30" width="40" /></a><br>
+<a href="https://discord.gg/1132151125613760574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1132151125613760574" height="30" width="40" /></a><br><br>
+
 ### Support Me ...
 <br>
 <a href="https://www.buymeacoffee.com/aymonoxos"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aymonoxos" /></a>
