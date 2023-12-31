@@ -15,7 +15,7 @@ OS: Garuda Linux "Raptor"
 Shell: zsh 5.9
 Fav.Anime(1):(Boruto Next Generation)
 Fav.Anime(2):(Sword Art Online)
-Loves: Making games , Bikes (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
+Loves: Making games , Bikes,videogames 🎮, music 🎵
 Languages: C,C++, Python, Kotlin
 ```
 
