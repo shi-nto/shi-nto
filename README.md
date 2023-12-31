@@ -34,7 +34,7 @@ Location : Casablanca
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=SAO_unreal-physic&Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=SAO_cach.plus.bank&Uniminuto&theme=radical&hide_border=true) |
+| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=SAO_physic&Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=SAO_cach.plus.bank&Uniminuto&theme=radical&hide_border=true) |
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
