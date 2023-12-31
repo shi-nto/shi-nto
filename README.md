@@ -2,8 +2,6 @@
 <div align="center"> 
 <img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px">
 </div>
-<br>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
 </h1>
