@@ -4,18 +4,18 @@
 </div>
 <br>
 
-<img alt="gojo" align="right" src="https://github.com/Kashinayma/agajareiitr/blob/main/assets/tenor.gif" width=50% height=400px>
+<img alt="gojo" align="right" src="https://github.com/Kashinayma/agajareiitr/blob/main/assets/tenor.gif" width=50% height=350px>
 
 ```csharp
 My Profile v3.1.10: 復興「ふっこう」
 -------------------------------
 Username: Yoshio Keima 「吉尾桂馬」
-WhoamI: Physicist and Computer Engineer. Also musician (more or less)
+WhoamI: Game developer
 OS: Garuda Linux "Raptor"
 Shell: zsh 5.9
 Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
 Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
-Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
+Loves: Making games , Bikes (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
 Languages: C,C++, Python, Kotlin
 ```
 
