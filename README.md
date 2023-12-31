@@ -13,8 +13,8 @@ Username: Yoshio Keima 「吉尾桂馬」
 WhoamI: Game developer
 OS: Garuda Linux "Raptor"
 Shell: zsh 5.9
-Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
+Fav.Anime(1):(Boruto Next Generation)
+Fav.Anime(2):(Sword Art Online)
 Loves: Making games , Bikes (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
 Languages: C,C++, Python, Kotlin
 ```
