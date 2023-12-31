@@ -4,6 +4,9 @@
 </div>
 <br>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
+</h1>
 <img alt="gojo" align="right" src="https://github.com/Kashinayma/agajareiitr/blob/main/assets/tenor.gif" width=50% >
 
 ```csharp
@@ -24,9 +27,6 @@ Location : Casablanca
 
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
-</h1>
 
 | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=rsrahulak0&theme=algolia&hide_border=true&width=49%) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashinayma&langs_count=8&layout=compact&bg_color=1039&title_color=ffffff&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html) |
 | ----- | ----- |
