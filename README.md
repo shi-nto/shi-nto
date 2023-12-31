@@ -11,14 +11,14 @@
 
 ### - Super Powers :
 
-- ✨ Python, R, C++, JavaScript
-- ✨ Web Scrapping, Django, Flask
+- ✨ Python, C++, shel scripting
+- ✨ linux Os , blueprint
 
 ### - Hobbies :
 
 - ✨ Watching Anime
-- ✨ Freelancing
-- ✨ Travelling/Photography
+- ✨ Bike travelling
+- ✨ Video Games
 
 
 
