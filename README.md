@@ -4,9 +4,6 @@
 </div>
 
 
-<img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
-
-### ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
 
 <p>
   <h3> Few words about Me</h3>
