@@ -11,14 +11,14 @@
 
 ### - Super Powers :
 
-- ✨ Python, C++, shel scripting
-- ✨ linux Os , blueprint
+- ✨ Python, C++, shel scripting ✨
+- ✨ linux Os , blueprint        ✨
 
 ### - Hobbies :
 
-- ✨ Watching Anime
-- ✨ Bike travelling
-- ✨ Video Games
+- ✨     Watching Anime          ✨
+- ✨     Bike travelling         ✨
+- ✨     Video Games             ✨
 
 
 
