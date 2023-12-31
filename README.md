@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<img alt="gojo" align="right" src="https://github.com/Kashinayma/agajareiitr/blob/main/assets/tenor.gif">
+<img alt="gojo" align="right" src="https://github.com/Kashinayma/agajareiitr/blob/main/assets/tenor.gif" width=50%>
 
 ```csharp
 My Profile v3.1.10: 復興「ふっこう」
