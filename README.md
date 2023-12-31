@@ -8,13 +8,24 @@
 
 ### ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
 
+<p>
+  <h3> Few words about Me</h3>
+  <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+  
+- Computer Sience student & Full-Stack developer.
+  
+- Mainly web-developer whos enjoy improving his skills in other languages as well.
+  
+- I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
+  
+- 5+ years of non-commercial expirience in programming.
+
+- Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/pl.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (C2 uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/se.svg"> (second language)
 
 
-** SAO_ ✌🏻**<br>
-##And let's not forget Aymen Boussetta! 👋🌟 Aymen is a dynamic individual who adds his own flair to the tech world. 💡 As someone with a passion for coding and a commitment to continuous learning, Aymen ##brings a fresh perspective to the coding realm.**
-<br>
 
->>>    In the spirit of adventure, Aymen shares a love for VTT biking. 🚵‍♂️ The thrill of the ride, the freedom of the open trails—these experiences parallel the excitement he brings to his coding endeavors. Aymen is not just a coder; he's an explorer of both digital landscapes and rugged biking paths, oh I forget i love also Video Games (●'◡'●) <br>
+</p>
+
 
 
 <h1 align="center">
