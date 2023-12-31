@@ -5,23 +5,23 @@
 
 
 
-<p>
-  <h3> Few words about Me</h3>
-  <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
-  
-- Computer Sience student & Full-Stack developer.
-  
-- Mainly web-developer whos enjoy improving his skills in other languages as well.
-  
-- I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
-  
-- 5+ years of non-commercial expirience in programming.
+# About ME 💬 :
 
-- Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/pl.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (C2 uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/se.svg"> (second language)
+### - I'm 21 years old Python Developer and undergraduate at IIT Roorkee from India.
 
+<img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/tenor.gif">
 
+### - Super Powers :
 
-</p>
+- ✨ Python, R, C++, JavaScript
+- ✨ Web Scrapping, Django, Flask
+
+### - Hobbies :
+
+- ✨ Watching Anime
+- ✨ Freelancing
+- ✨ Travelling/Photography
+
 
 
 
