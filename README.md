@@ -9,7 +9,7 @@
 ```csharp
 My Profile v3.1.10: 復興「ふっこう」
 -------------------------------
-Username: Yoshio Keima 「吉尾桂馬」
+Username: Aymen Boussetta
 WhoamI: Game developer
 OS: Garuda Linux "Raptor"
 Shell: zsh 5.9
