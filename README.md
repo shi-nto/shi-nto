@@ -2,7 +2,7 @@
 <div align="center"> 
 <img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px">
 </div>
-
+<br>
 
 <img alt="gojo" align="right" src="https://github.com/Kashinayma/agajareiitr/blob/main/assets/tenor.gif">
 
