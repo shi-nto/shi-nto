@@ -13,15 +13,10 @@ Username: Yoshio Keima 「吉尾桂馬」
 WhoamI: Physicist and Computer Engineer. Also musician (more or less)
 OS: Garuda Linux "Raptor"
 Shell: zsh 5.9
-Telegram: @yoshimakayaba.
 Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
 Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
 Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
-Pronouns: He/Him
-Location: Planet Kepler-452b
 Languages: C,C++, Python, Kotlin
-Hobbyes: Python, C, C++
-Learning: Swift, Kotlin, Go, Js,CSS and HTML
 ```
 
 
