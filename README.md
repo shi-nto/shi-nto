@@ -36,7 +36,7 @@ Location : Casablanca
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kashinayma&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/PintoGamer64)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kashinayma&theme=react-dark&hide_title=true&radius=10&area=true)]()
 
 <br>
 
