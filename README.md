@@ -7,7 +7,7 @@
 
 # About ME 💬 :
 
-<img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/tenor.gif">
+<img alt="gojo" align="right" src="https://github.com/Kashinayma/agajareiitr/blob/main/assets/tenor.gif">
 
 ### - Super Powers :
 
