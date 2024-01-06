@@ -40,7 +40,7 @@ Location : Casablanca
 <br>
 
 <p><h1 align="left"> <strong>T O O L S</strong></h1>
-<img width="100%" src="https://github.com/Kashinayma/Kashinayma/tools.png"></p></div>
+<img width="100%" src="https://github.com/Kashinayma/Kashinayma/blob/main/tools.png"></p></div>
 
 <hr>
 
