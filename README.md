@@ -7,13 +7,12 @@
 ```csharp
 About me: 復興「ふっこう」
 -------------------------------
-Username: Aymen Boussetta
-WhoamI: Game developer
+Username: Boussetta Aymen
 OS: Garuda Linux "Raptor"
 Shell: zsh 5.9
 Fav.Anime(1):(Boruto Next Generation)
 Fav.Anime(2):(Sword Art Online)
-Loves: Making games,vtt Bikes,videogames 🎮, music 🎵watching anime
+Loves: Making games,vtt Bikes,videogames 🎮, music 🎵 watching anime
 Languages: C,C++, Python, Kotlin , java ..
 Location : Casablanca 
 ```
