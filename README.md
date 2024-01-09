@@ -23,7 +23,7 @@ Location : Casablanca
 
 <br>
 
- |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)| ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashinayma&langs_count=8&layout=compact&bg_color=1039&title_color=ffffff&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html) |
+ |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashinayma&show_icons=true&theme=radical)| ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashinayma&langs_count=8&layout=compact&bg_color=1039&title_color=ffffff&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html) |
 | ----- | ----- |
 
 
