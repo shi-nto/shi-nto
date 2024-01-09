@@ -22,8 +22,7 @@ Location : Casablanca
 
 
 <br>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kashinayma" alt="GitHub Streak" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kashinayma&theme=transparent&hide_border=true)](https://git.io/streak-stats) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashinayma&langs_count=8&layout=compact&bg_color=1039&title_color=ffffff&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html) |
 | ----- | ----- |
 
