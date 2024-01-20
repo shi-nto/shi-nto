@@ -13,7 +13,7 @@ Shell: zsh 5.9
 Fav.Anime(1):(Boruto Next Generation)
 Fav.Anime(2):(Sword Art Online)
 Loves: Making games,vtt Bikes,videogames 🎮, music 🎵 watching anime
-Languages: C,C++, Python, Kotlin , java ..
+Languages: C,C++, blueprint, python ..
 Location : Casablanca 
 ```
 
