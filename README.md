@@ -21,27 +21,27 @@ Location : Casablanca
 
 <br>
 
- |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashinayma&show_icons=true&theme=radical)| ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashinayma&langs_count=8&layout=compact&bg_color=1039&title_color=ffffff&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html) |
+ |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sekero-o&show_icons=true&theme=radical)| ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sekero-o&langs_count=8&layout=compact&bg_color=1039&title_color=ffffff&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html) |
 | ----- | ----- |
 
 
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=SAO_physic&Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Kashinayma&show_owner=true&repo=SAO_cach.plus.bank&Uniminuto&theme=radical&hide_border=true) |
+| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=SAO_physic&Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=SAO_cach.plus.bank&Uniminuto&theme=radical&hide_border=true) |
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kashinayma&theme=react-dark&hide_title=true&radius=10&area=true)]()
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sekero-o&theme=react-dark&hide_title=true&radius=10&area=true)]()
 
 <br>
 
 <p><h1 align="left"> <strong>T O O L S</strong></h1>
-<img width="100%" src="https://github.com/Kashinayma/Kashinayma/blob/main/tools.png"></p></div>
+<img width="100%" src="https://github.com/Sekero-o/Sekero-o/blob/main/tools.png"></p></div>
 
 <hr>
 
-<img align='left' src="https://github.com/Kashinayma/Kashinayma/blob/main/images/haruhiro.png" width="210">
+<img align='left' src="https://github.com/Sekero-o/Kas/blob/main/images/haruhiro.png" width="210">
 
   ### Connect Me..(●'◡'●)
   <br>
