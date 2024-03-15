@@ -5,7 +5,7 @@
 </h1>
 
 
-#  <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sekero-o&theme=react-dark&hide_title=true&radius=10&area=true)]()
 
 # <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
