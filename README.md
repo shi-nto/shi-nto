@@ -19,7 +19,7 @@
 
 
 
-# > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
+#  <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sekero-o&theme=react-dark&hide_title=true&radius=10&area=true)]()
 
 <br>
@@ -28,8 +28,6 @@
 <img width="100%" src="https://github.com/Sekero-o/Sekero-o/blob/main/tools.png"></p></div>
 
 <hr>
-
-<img align='left' src="https://github.com/Sekero-o/Kas/blob/main/images/haruhiro.png" width="210">
 
   ### Connect Me..(●'◡'●)
   <br>
