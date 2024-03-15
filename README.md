@@ -55,9 +55,7 @@ Location : Casablanca
 
 ### Support Me...(●'◡'●)
 <br>
-<a href="https://www.buymeacoffee.com/aymonoxos"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aymonoxos" /></a>
-
-     
+<a href="https://ko-fi.com/https://ko-fi.com/mrc_ayx"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/mrc_ayx" /></a>
 
 
   </p>
