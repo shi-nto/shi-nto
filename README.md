@@ -4,22 +4,23 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
 </h1>
 
-```csharp
-About me: 復興「ふっこう」
--------------------------------
-Username: Boussetta Aymen
-OS: Garuda Linux "Raptor"
-Shell: zsh 5.9
-Fav.Anime(1):(Boruto Next Generation)
-Fav.Anime(2):(Sword Art Online)
-Loves: Making games,vtt Bikes,videogames 🎮, music 🎵 watching anime
-Languages: C,C++, blueprint, python ..
-Location : Casablanca 
-```
+
 
 
 
 <br>
+
+
+ |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sekero-o&show_icons=true&theme=radical)| ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sekero-o&langs_count=8&layout=compact&bg_color=1039&title_color=ffffff&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html) |
+| ----- | ----- |
+
+
+
+# > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
+
+| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=UE_VroidToUnrealEnginPlugin&Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=UE_Physic&Uniminuto&theme=radical&hide_border=true) |
+| ----- | ----- |
+
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sekero-o&theme=react-dark&hide_title=true&radius=10&area=true)]()
