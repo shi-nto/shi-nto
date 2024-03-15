@@ -5,6 +5,9 @@
 </h1>
 
 
+#  <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sekero-o&theme=react-dark&hide_title=true&radius=10&area=true)]()
+
 # <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
 | ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=UE_VroidToUnrealEnginPlugin&Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=UE_Physic&Uniminuto&theme=radical&hide_border=true) |
@@ -19,8 +22,6 @@
 
 
 
-#  <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sekero-o&theme=react-dark&hide_title=true&radius=10&area=true)]()
 
 <br>
 
