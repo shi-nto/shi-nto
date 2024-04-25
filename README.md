@@ -10,7 +10,7 @@
 
 # <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| [![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&repo=UE_Physic&theme=radical&hide_border=true)](https://github.com/Sekero-o/CE_Cup2030) | [![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&repo=UE_Physic&theme=radical&hide_border=true)](https://github.com/Sekero-o/UE_Physic) |
+| [![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&repo=UE_VroidToUnrealEnginPlugin&theme=radical&hide_border=true)](https://github.com/Sekero-o/CE_Cup2030) | [![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&repo=UE_Physic&theme=radical&hide_border=true)](https://github.com/Sekero-o/UE_Physic) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CE_Cup2030                                                                                                                                                    | UE_Physic                                                                                                                                                |
 
