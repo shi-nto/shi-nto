@@ -10,7 +10,7 @@
 
 # <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=ED_CUP2030&Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=UE_Physic&Uniminuto&theme=radical&hide_border=true) | 
+| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=CE_Cup2030&Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=Sekero-o&show_owner=true&repo=UE_Physic&Uniminuto&theme=radical&hide_border=true) | 
 | ----- | ----- |
 
 
