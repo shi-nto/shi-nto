@@ -5,6 +5,7 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sekero-o&theme=react-dark&hide_title=true&radius=10&area=true)]()
+<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L1XIM85)
 
 
