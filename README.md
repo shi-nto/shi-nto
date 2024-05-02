@@ -2,13 +2,12 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
+
     
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L1XIM85)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="aymonoxos" data-color="#5F7FFF" data-emoji="😁"  data-font="Comic" data-text="Buy me a game" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="aymonoxos" data-color="#5F7FFF" data-emoji="😁"  data-font="Comic" data-text="Buy me a game" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/aymonoxos"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a game&emoji=😁&slug=aymonoxos&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
