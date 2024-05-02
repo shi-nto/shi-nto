@@ -32,14 +32,6 @@
 
 
 
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm fsdfafasfds sdfa dsfasf</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <a href="https://twitter.com/aymanoxos_66500" target="blank"><img src="https://img.shields.io/twitter/follow/aymanoxos_66500?logo=twitter&style=for-the-badge" alt="aymanoxos_66500" /></a> </p>
 
 ### Blogs posts
