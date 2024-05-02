@@ -6,7 +6,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L1XIM85)
 
-<a href="https://www.buymeacoffee.com/aymonoxos"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🕹️&slug=aymonoxos&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="aymonoxos" data-color="#5F7FFF" data-emoji="😁"  data-font="Comic" data-text="Buy me a game" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
