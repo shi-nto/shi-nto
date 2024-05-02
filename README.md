@@ -65,8 +65,11 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zeeshdnoijwhhf2vay7jlhagfm&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
 ###
 
+<p aligh="center">
+  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L1XIM85)
 
 
