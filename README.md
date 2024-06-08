@@ -71,7 +71,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shi-nto.shi-nto&"  />
 </div>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b66494c6-c5ca-46cb-ae4a-e2c8ace49752/deploy-status)](https://app.netlify.com/sites/marvelous-pudding-8c8bd0/deploys)
+<div align="center">
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/b66494c6-c5ca-46cb-ae4a-e2c8ace49752/deploy-status)](https://app.netlify.com/sites/marvelous-pudding-8c8bd0/deploys)
+</div>
+
+
 
 ###
 
