@@ -2,12 +2,7 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
-
-    
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L1XIM85)
-
-
+</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -43,16 +38,6 @@
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
-###
-
-
-
-
-
-
-
-
-
 <p align="center">
   <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
   <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
@@ -64,40 +49,12 @@
   <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo" /></a>
 </p>
 
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shi-nto.shi-nto&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shi-nto.shi-nto&" />
 </div>
 
 <div align="center">
-  
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/b66494c6-c5ca-46cb-ae4a-e2c8ace49752/deploy-status)](https://app.netlify.com/sites/marvelous-pudding-8c8bd0/deploys)
-</div>
-
-
-
-###
-
-<!--<div align="center">
-  <a href="https://open.spotify.com/user/31zeeshdnoijwhhf2vay7jlhagfm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zeeshdnoijwhhf2vay7jlhagfm&count=1&unique=true" alt="Spotify recently played"  />
+  <a href="https://app.netlify.com/sites/marvelous-pudding-8c8bd0/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/b66494c6-c5ca-46cb-ae4a-e2c8ace49752/deploy-status" />
   </a>
-</div>-->
-
-###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
