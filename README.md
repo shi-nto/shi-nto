@@ -1,77 +1,105 @@
-<h1 align="center">🎥 Aymen Boussetta</h1>
-<h3 align="center">Real-Time Broadcast • Unreal Engine Plugin Developer • AI Systems Engineer</h3>
-
+<!-- 🔥 Banner -->
 <p align="center">
-  Building high-performance real-time systems for TV, broadcast & interactive media.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aymen%20Boussetta&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-Time%20Broadcast%20%7C%20Unreal%20Plugin%20Developer%20%7C%20AI%20Systems&descAlignY=55&descSize=18" />
 </p>
 
 ---
 
-## 🎬 About Me
+## 🎬 Real-Time Media Engineer
 
-I design and develop real-time systems for:
-
-- 📺 TV & Broadcast Graphics
-- 🎮 Unreal Engine Plugins (C++)
-- 🤖 AI-powered production tools
-- 🌐 High-performance web applications
-
-Focused on performance, automation, and clean architecture.
+<p align="center">
+  🎥 TV & Broadcast Systems &nbsp; | &nbsp;
+  🎮 Unreal Engine C++ Plugins &nbsp; | &nbsp;
+  🤖 AI Automation &nbsp; | &nbsp;
+  🌐 Interactive Web Platforms
+</p>
 
 ---
 
-## 🚀 Core Expertise
+## 🚀 Core Domains
+
+<table align="center">
+<tr>
+<td align="center" width="300">
 
 ### 🎮 Unreal Engine
-- C++ Plugin Development
-- Blueprint Integration
-- Real-time Graphics Systems
-- Broadcast Control Integrations
+C++ Plugin Architecture  
+Blueprint Systems  
+Real-Time Rendering  
+Broadcast Integration  
 
-### 📺 TV & Broadcast
-- Live Graphics Systems
-- Scoreboard Templates
-- Data-driven overlays
-- Production automation tools
+</td>
 
-### 🤖 AI Development
-- AI-assisted workflows
-- Computer vision integration
-- Automation systems
-- Intelligent content tools
+<td align="center" width="300">
 
-### 🌐 Web Applications
-- React / TypeScript
-- Node.js / Express
-- Real-time dashboards
-- API-driven systems
+### 📺 Broadcast Tech
+Live Graphics  
+Scoreboards  
+Data Overlays  
+Production Automation  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤖 AI Systems
+Workflow Automation  
+Vision Integration  
+Smart Content Tools  
+AI-assisted Production  
+
+</td>
+
+<td align="center">
+
+### 🌐 Web Platforms
+React / TypeScript  
+Node / Express  
+Real-Time Dashboards  
+API Systems  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack
-
-Unreal Engine • C++ • React • TypeScript • Node.js  
-Three.js • Linux • Bash • C# • Blender  
-
----
-
-## 📊 GitHub Stats
+## ⚙️ Technology Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,unreal,react,ts,nodejs,threejs,linux,bash,csharp,blender&theme=dark" />
 </p>
 
 ---
 
-## 🎥 Selected Work
+## 📊 Development Activity
 
-- Unreal Engine Broadcast Plugin
-- Real-Time TV Graphics System
-- AI Content Automation Tool
-- Interactive Web Control Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🎥 Featured Systems
+
+🔹 Unreal Engine Broadcast Plugin  
+🔹 Real-Time TV Graphics Framework  
+🔹 AI Media Automation Tool  
+🔹 Interactive Web Control Dashboard  
 
 ---
 
 <p align="center">
-  ⚡ Building the future of real-time media systems.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
