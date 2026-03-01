@@ -54,11 +54,12 @@ AI-assisted Production
 
 <td align="center">
 
-### 🌐 Web Platforms
+### 🌐 Web & Backend Systems
 React / TypeScript  
-Node / Express  
+Node.js / Express  
+C# Services  
 Real-Time Dashboards  
-API Systems  
+API & Data Systems  
 
 </td>
 </tr>
@@ -68,8 +69,24 @@ API Systems
 
 ## ⚙️ Technology Stack
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,unreal,react,ts,nodejs,threejs,linux,bash,csharp,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,python,ts&theme=dark" />
+</p>
+
+### 🌐 Backend & Web
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,threejs&theme=dark" />
+</p>
+
+### 🎮 Real-Time & Media
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unreal,blender,androidstudio&theme=dark" />
+</p>
+
+### 🛠 Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,linux,bash,git,github&theme=dark" />
 </p>
 
 ---
