@@ -1,72 +1,77 @@
-<h1 align="center">🎮 Aymen Boussetta</h1>
-<h3 align="center">Unreal Engine C++ Game Developer</h3>
+<h1 align="center">🎥 Aymen Boussetta</h1>
+<h3 align="center">Real-Time Broadcast • Unreal Engine Plugin Developer • AI Systems Engineer</h3>
 
 <p align="center">
-  Building high-performance games & interactive systems.<br>
-  C++ | Unreal Engine | 3D Systems | Full-Stack Dev
+  Building high-performance real-time systems for TV, broadcast & interactive media.
 </p>
 
 ---
 
-## 🧠 About Me
+## 🎬 About Me
 
-- 🎮 Unreal Engine Developer (C++ Focused)
-- 🧩 Gameplay Systems & Mechanics Designer
-- 🌍 Full-Stack Developer (React / Node / Express)
-- 🐧 Linux Power User
-- 💡 Passionate about performance & clean architecture
+I design and develop real-time systems for:
 
----
+- 📺 TV & Broadcast Graphics
+- 🎮 Unreal Engine Plugins (C++)
+- 🤖 AI-powered production tools
+- 🌐 High-performance web applications
 
-## 🔥 Currently Working On
-
-- 🕹 Advanced Unreal C++ gameplay systems
-- 📊 Trading strategy tools (MACD / RSI / VWAP analysis)
-- 🚀 High-performance interactive web tools
+Focused on performance, automation, and clean architecture.
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🚀 Core Expertise
 
-### 🎮 Game Development
-Unreal Engine | C++ | Blueprint | Blender
+### 🎮 Unreal Engine
+- C++ Plugin Development
+- Blueprint Integration
+- Real-time Graphics Systems
+- Broadcast Control Integrations
 
-### 🌐 Web & Backend
-React | TypeScript | Node.js | Express | Three.js
+### 📺 TV & Broadcast
+- Live Graphics Systems
+- Scoreboard Templates
+- Data-driven overlays
+- Production automation tools
 
-### 💻 Systems
-Linux | Bash | C | C# | Kotlin
+### 🤖 AI Development
+- AI-assisted workflows
+- Computer vision integration
+- Automation systems
+- Intelligent content tools
+
+### 🌐 Web Applications
+- React / TypeScript
+- Node.js / Express
+- Real-time dashboards
+- API-driven systems
+
+---
+
+## ⚙️ Tech Stack
+
+Unreal Engine • C++ • React • TypeScript • Node.js  
+Three.js • Linux • Bash • C# • Blender  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎥 Selected Work
 
-🎮 Unreal C++ Gameplay Framework  
-📊 Trading Strategy Analyzer (Python + Indicators)  
-🌐 Interactive Web Canvas Editor  
-
----
-
-## 🌍 Connect With Me
-
-[LinkedIn]  
-[Portfolio]  
-[Email]
+- Unreal Engine Broadcast Plugin
+- Real-Time TV Graphics System
+- AI Content Automation Tool
+- Interactive Web Control Dashboard
 
 ---
 
 <p align="center">
-  ⚡ “Code Like a System Architect. Think Like a Game Designer.”
+  ⚡ Building the future of real-time media systems.
 </p>
