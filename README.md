@@ -1,70 +1,72 @@
+<h1 align="center">🎮 Aymen Boussetta</h1>
+<h3 align="center">Unreal Engine C++ Game Developer</h3>
+
 <p align="center">
+  Building high-performance games & interactive systems.<br>
+  C++ | Unreal Engine | 3D Systems | Full-Stack Dev
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Unreal%20Engine%20Game%20Developer%20By%20C%2B%2B+;+I'm+Aymen+Boussetta!👋;" />
-</h1>
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+## 🧠 About Me
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
+- 🎮 Unreal Engine Developer (C++ Focused)
+- 🧩 Gameplay Systems & Mechanics Designer
+- 🌍 Full-Stack Developer (React / Node / Express)
+- 🐧 Linux Power User
+- 💡 Passionate about performance & clean architecture
 
-  <!-- Expo -->
-  <img src="https://cdn.simpleicons.org/expo/000000" height="40" alt="expo logo" />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
+## 🔥 Currently Working On
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+- 🕹 Advanced Unreal C++ gameplay systems
+- 📊 Trading strategy tools (MACD / RSI / VWAP analysis)
+- 🚀 High-performance interactive web tools
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+## ⚙️ Tech Arsenal
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+### 🎮 Game Development
+Unreal Engine | C++ | Blueprint | Blender
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
+### 🌐 Web & Backend
+React | TypeScript | Node.js | Express | Three.js
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
+### 💻 Systems
+Linux | Bash | C | C# | Kotlin
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
+## 📊 GitHub Stats
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
-  <img width="12" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
-  <img width="12" />
+---
 
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-  <img width="12" />
+## 🚀 Featured Projects
 
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-</div>
+🎮 Unreal C++ Gameplay Framework  
+📊 Trading Strategy Analyzer (Python + Indicators)  
+🌐 Interactive Web Canvas Editor  
 
+---
 
+## 🌍 Connect With Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shi-nto.shi-nto&" />
-</div>
+[LinkedIn]  
+[Portfolio]  
+[Email]
 
-<div align="center">
-  <a href="https://app.netlify.com/sites/marvelous-pudding-8c8bd0/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/b66494c6-c5ca-46cb-ae4a-e2c8ace49752/deploy-status" />
-  </a>
-</div>
+---
+
+<p align="center">
+  ⚡ “Code Like a System Architect. Think Like a Game Designer.”
+</p>
