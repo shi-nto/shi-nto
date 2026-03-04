@@ -94,22 +94,7 @@
 
 ---
 
-
-## 🔹 CURRENT STATUS & PROJECTS
-
-| Project                 | Registry | Security      |
-| :---------------------- | :------: | :------------ |
-| **UE Broadcast Plugin** | 🟢 LIVE  | 🔒 Encrypted  |
-| **TV Graphics Hub**     | 🟡 SYNC  | 🔓 Priority 1 |
-| **AI Content Engine**   | 🟢 LIVE  | 🔒 Restricted |
-| **Interactive Dash**    |  🔵 LAB  | 🔓 Sandbox    |
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=120&section=footer" />
 </p>
 
-<p align="center">
-  <sub>Authorized System Access Only | Design by <b>Antigravity</b></sub>
-</p>
