@@ -43,35 +43,38 @@
 
 ## 🛠 CORE SYSTEM (Tech Stack)
 
-<img align="right" src="./images/download (1).png" width="100" style="border-radius: 15px; border: 1px solid #333; box-shadow: 0 5px 15px rgba(0,0,0,0.3); margin-left: 15px;" />
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,js,nodejs,react,nextjs,threejs,unreal,blender,docker,mongodb,postgres,bash,git,github&theme=dark" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table width="100%" style="border: none;">
-    <tr>
-      <td width="33%" align="center" style="border: none;">
-        <h4>SYSTEMS</h4>
-        <code>Unreal Engine</code><br/>
-        <code>C++ / C# / Linux</code>
-      </td>
-      <td width="33%" align="center" style="border: none;">
-        <h4>INTERFACE</h4>
-        <code>React / TS / Next.js</code><br/>
-        <code>Three.js / GLSL</code>
-      </td>
-      <td width="33%" align="center" style="border: none;">
-        <h4>LOGIC</h4>
-        <code>Node.js / Python</code><br/>
-        <code>AI / API Design</code>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" style="border: none;">
+  <tr>
+    <td width="65%" style="border: none; padding-right: 20px; vertical-align: top;">
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,js,nodejs,react,nextjs,threejs,unreal,blender,docker,mongodb,postgres,bash,git,github&theme=dark" />
+      </div>
+      <br/>
+      <table width="100%" style="border: none;">
+        <tr>
+          <td width="33%" align="center" style="border: none;">
+            <h4>SYSTEMS</h4>
+            <code>Unreal Engine</code><br/>
+            <code>C++ / C# / Linux</code>
+          </td>
+          <td width="33%" align="center" style="border: none;">
+            <h4>INTERFACE</h4>
+            <code>React / TS / Next.js</code><br/>
+            <code>Three.js / GLSL</code>
+          </td>
+          <td width="33%" align="center" style="border: none;">
+            <h4>LOGIC</h4>
+            <code>Node.js / Python</code><br/>
+            <code>AI / API Design</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="35%" align="center" style="border: none; vertical-align: top;">
+      <img src="./images/download (1).png" width="100%" style="border-radius: 15px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
