@@ -16,7 +16,7 @@
 <table align="center" style="border: none;">
   <tr>
     <td width="45%" align="center" style="border: none;">
-      <img src="./images/download (2).png" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(255,0,0,0.3);" />
+      <img src="./images/download (5).png" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
     </td>
     <td width="55%" style="border: none; padding-left: 20px;">
       <h3>⚡ Real-Time Media Engineer</h3>
@@ -42,10 +42,6 @@
 ---
 
 ## 🛠 CORE SYSTEM (Tech Stack)
-
-<div align="center">
-  <img src="./tools.png" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
-</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,js,nodejs,react,nextjs,threejs,unreal,blender,docker,mongodb,postgres,bash,git,github&theme=dark" />
@@ -80,8 +76,7 @@
 ## 📽 LIVE WORKFLOW PREVIEW
 
 <p align="center">
-  <img src="./work_ex.gif" width="49%" style="border-radius: 10px; border: 1px solid #333;" />
-  <img src="./images/terminal.gif" width="49%" style="border-radius: 10px; border: 1px solid #333;" />
+  <img src="./images/terminal.gif" width="100%" style="border-radius: 10px; border: 1px solid #333;" />
 </p>
 
 ---
@@ -98,20 +93,6 @@
 </p>
 
 ---
-
-## 📂 THE ARCHIVE
-
-<p align="center">
-  <img src="./images/download (3).png" width="32%" style="border-radius: 10px;" />
-  <img src="./images/download.png" width="32%" style="border-radius: 10px;" />
-  <img src="./images/download (2) (1).png" width="32%" style="border-radius: 10px;" />
-</p>
-
----
-
-<p align="center">
-  <img src="./images/download (1).png" width="100%" style="border-radius: 15px; opacity: 0.8;" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=120&section=footer" />
