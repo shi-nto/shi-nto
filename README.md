@@ -1,6 +1,6 @@
 <!-- 🔥 Dynamic Banner with High-Tech / Anime Aesthetic -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:1a1a1a,100:2c3e50&height=280&section=header&text=Aymen%20Boussetta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-Time%20Systems%20%7C%20Unreal%20Plugin%20Dev%20%7C%20AI%20Automation&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:1a1a1a,100:2c3e50&height=280&section=header&text=Aymen%20Boussetta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-Time%20Systems%20%7C%20Unreal%20Plugin%20Dev%20%7C%20AI%20Automation%20%7C%20Full-Stack%20Applications&descAlignY=60&descSize=20" />
 </p>
 
 <p align="center">
