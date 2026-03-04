@@ -43,6 +43,8 @@
 
 ## 🛠 CORE SYSTEM (Tech Stack)
 
+<img align="right" src="./images/download (1).png" width="100" style="border-radius: 15px; border: 1px solid #333; box-shadow: 0 5px 15px rgba(0,0,0,0.3); margin-left: 15px;" />
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,js,nodejs,react,nextjs,threejs,unreal,blender,docker,mongodb,postgres,bash,git,github&theme=dark" />
 </div>
